@@ -96,11 +96,17 @@ Since   they  may    copy    the  features   and  try  to  implement  it...
 
 Oakjava7  is not  released  now. It has no  bugs.
 OakJava7  will  come at  any time that you don't expect it.
-In Oakjava7  first version itself we will cover 
+In Oakjava7  first version itself  we will cover 
 80%  the  concepts of  Machine learning and DataScience.
 and  remaining concepts will be covered in OakJava7 second version.
 
 
+Note
+====
+
+Oakjava7  Github url  is  under  construction.
+
+This OakJava7 tutorial is  GNU GPL3 licensed.
 
 
 
