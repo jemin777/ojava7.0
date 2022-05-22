@@ -1,4 +1,4 @@
-#**Welcome to OakJava7 Programming Tutorial**
+**Welcome to OakJava7 Programming Tutorial**
 
 OAKJAVA7(JAVA7.0) Tutorial
 ===========================
