@@ -85,7 +85,31 @@ Jdollar(J$),oakjava7 and  all other  writ  programming language
 is  not  concenterated  in  AI  and  creating robots.
 but Python concenterated on this AI and  creating robots.
 
+Why Oakjava7 is the best and top programming language than python p.l?
+======================================================================
 
+i) Both Oakjava7 and java/j2ee  is like  english fluent language.
+
+but python is not a english fluent language.
+
+ii) Using Oakjava7  we can reduce the  lines of code.
+
+python is not  easy for the  developers to focus  when it reduce the lines of  code...
+
+iii) Oakjava7 and Java/j2ee follow camel case and can be adjusted  at any style with beautiful arrangement 
+
+using Intellij.But Python is failed in indentation.
+
+iv) Oakjava7 author is not interested in Robot design (AI) field.Because AI is
+
+belong to antichrist technology. but python author focused  on AI field.
+
+v) OakJava7 module Oakjava8 is  best  in Mobile computing.
+so by this  5 and hidden more disadvantages we  can  say  python is not
+a  best and Top programming Language.
+
+Note: oakjava7 has more advantages than python p.l which are hidden 
+ and  so --on from  python author and his team. Because they  may  copy the features and implement it.
 
 
 Note:  
