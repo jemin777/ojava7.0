@@ -105,7 +105,7 @@ iv) Oakjava7 author is not interested in Robot design (AI) field.Because AI is
 belong to antichrist technology. but python author focused  on AI field.
 
 v) OakJava7 module Oakjava8 is  best  in Mobile computing.
-so by this  5 and hidden more disadvantages we  can  say  python is not
+so by this  5 and hidden more disadvantages of python we  can  say  python is not
 a  best and Top programming Language.
 
 Note: oakjava7 has more advantages than python p.l which are hidden 
