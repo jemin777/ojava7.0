@@ -133,6 +133,10 @@ Oakjava7  Github url  is  under  construction.
 
 This OakJava7 tutorial is  GNU GPL3 licensed.
 
+For OakJava7 Programming Language tutorial  see :
+
+https://sites.google.com/site/oakjava7programminglanguage
+
 Important Note:
 ================
 This  GNUGPL3  license  is  for  only  Professional  Edition with  OakJava7 Tutorial. But  enterprise  edition  is  not  free that  is  MIT licensed. since
