@@ -137,6 +137,20 @@ For OakJava7 Programming Language tutorial  see :
 
 https://sites.google.com/site/oakjava7programminglanguage
 
+About the OakJava7 Programming Language
+=========================================
+
+Note: I spent 5 years  to  Design and  create  the Oakjava7 programming language.
+but unwanted hackers attack my website without any reason. That's why iam delayed.
+Oakjava7(JAVA7.0) programming language is not easy to design and invent it. To invent 
+Oakjava7 programming language  is very hard...
+Oakjava7(JAVA7.0) programming language is the technology wisdom given by  God jehovah
+to me. Now also  some  hackers  has  attacked my OakJava7 google site at 22-04-2023.
+
+
+
+
+
 Important Note:
 ================
 This  GNUGPL3  license  is  for  only  Professional  Edition with  OakJava7 Tutorial. But  enterprise  edition  is  not  free that  is  MIT licensed. since
