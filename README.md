@@ -100,9 +100,7 @@ iii) Oakjava7 and Java/j2ee follow camel case and can be adjusted  at any style 
 
 using Intellij.But Python is failed in indentation.
 
-iv) Oakjava7 author is not interested in Robot design (AI) field.Because AI is
-
-belong to antichrist technology. but python author focused  on AI field.
+iv) OakJava7 is an beautiful programming language with attractive syntax and with few lines of code than python programming Language.
 
 v) OakJava7 module Oakjava8 is  best  in Mobile computing.
 so by this  5 and hidden more disadvantages of python we  can  say  python is not
@@ -111,6 +109,11 @@ a  best and Top programming Language.
 Note: oakjava7 has more advantages than python p.l which are hidden 
  and  so --on from  python author and his team. Because they  may  copy the features and implement it.
 
+Note:
+
+Oakjava7 author is not interested in Robot design (AI) field.Because AI is
+belong to antichrist technology. but python author focused  on AI field. 
+So this oakjava7 jobs work culture is more safe when compared to Python.
 
 Note:  
 =====
