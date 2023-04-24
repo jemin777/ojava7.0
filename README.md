@@ -4,7 +4,7 @@ OAKJAVA7(JAVA7.0) Tutorial
 
 OAKJAVA7(JAVA7.0) Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. and OAKJAVA7(JAVA7.0) 
  is  a   World No:1 Programming Language and  it  is   focused  on   creating  Prototype  software,used  to  create Gaming and utilities, 
- used  in  web application  with  java frameworks , used  with  remote   webapplication  with  java frameworks,  and  it  has  Advanced Oops.
+ used  in  web application  with  java frameworks , used    with  java frameworks,  and  it  has  Advanced Oops.
  It  also  supports obfuscation, Code Security, and it  is Learnable.
 JAVA7.0   means   Jemin  Advanced  Virtual  Application.
 JAVA7.0   is  even   Advanced   than  Python Programming  language...
@@ -17,7 +17,7 @@ Definition:
 ==========
 
 “JAVA7.0   is  meant   for  obfuscation, Code Security, Learnable, Prototype software, Advanced , used  in
-Software  development, web application with machine learning ,remote web application , and  it  symbolizes  
+Software  development, web application with machine learning  , and  it  symbolizes  
 STAR  symbol,  used  in  applications  like  Gaming  , used  with  java/j2ee  framework  like
 Struts, spring , hibernate ,etc and JAVA7.0 is used  in Machine Learning and  Datascience ".
 
