@@ -27,7 +27,7 @@ Definition:
 
 “JAVA7.0   is  meant   for  obfuscation, Code Security, Learnable, Prototype software, Advanced , used  in
 Software  development, web application with machine learning  , and  it  symbolizes  
-STAR  symbol,  used  in  applications  like  Gaming  , used  with  java/j2ee  framework  like
+STAR  symbol,  used  in  applications  like   consolee and  used  with  java/j2ee  framework  like
 Struts, spring , hibernate ,etc and JAVA7.0 is used  in Machine Learning and  Datascience ".
 
 
@@ -167,6 +167,7 @@ Who may  focus OakJava7(JAVA7.0) ?
 
 Professionals or Google Professionals can focus and  read the samples. Because it is designed like this.
 
+Note: All oakjava7  documents  are  under  construction.So don't read it now ,because it will confuse you.
 
 
 Important Note:
