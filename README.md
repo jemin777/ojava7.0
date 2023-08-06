@@ -3,12 +3,21 @@ OAKJAVA7(JAVA7.0) Tutorial
 ===========================
 
 OAKJAVA7(JAVA7.0) Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. and OAKJAVA7(JAVA7.0) 
- is  a   World No:1 Programming Language and  it  is   focused  on   creating  Prototype  software,used  to  create Gaming and utilities, 
- used  in  web application  with  java frameworks , used    with  java frameworks,  and  it  has  Advanced Oops.
- It  also  supports obfuscation, Code Security, and it  is Learnable.
+ is  a   World No:1 Programming Language and  it  is   focused  on   creating  DataStructures,Console Application with Wnosql DB, and
+ used  in  web application and Used in Remote X application  and  it  has  Advanced Oops.But OakJava7 windows application is  present in JDollarShell
+ not present in OakJava7(JAVA7.0). OAKJava7(JAVA7.0) has Advanced concept like Bucket,Extend,etc. But in JdollarShell only J$Shell GUI,Graphics are
+ found. Remote X application is Advanced than Python,Webapplication,and all programming Languages.So Say Good bye to olden web application.
+ 
+ It is used in Remote X application which is not opensource.Because Remote X application is
+different from webapplication and this concept is  invented by Wilmix Jemin j.This Remote X application and
+Remote web Application are not one. Remote web application is advanced than  remote X application.
+This  Remote X Application and  Remote Webapplication is  confidental from illegal hackers or another illegal persons who
+want to copy all my features in their research product and they will implement it.
+
+ It  also  supports obfuscation, Code Security, and it  is Learnable.It is  easy to learn.
 JAVA7.0   means   Jemin  Advanced  Virtual  Application.
-JAVA7.0   is  even   Advanced   than  Python Programming  language...
-JAVA7.0  will  replace Python programming language  in  Datascience  and  machine learning.
+JAVA7.0   is  even   Advanced   than  Python Programming  language and  all programming Languages.
+OAKJAVA7(JAVA7.0)  will  replace Python programming language  in  Datascience  and  machine learning.
 OakJava7(JAVA7.0) Linux version  is  implemented  in  C/C++, Java,Dotweb3.0 at  year  2021.  
 
 
