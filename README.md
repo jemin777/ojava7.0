@@ -176,4 +176,9 @@ This  GNUGPL3  license  is  for  only  Professional  Edition with  OakJava7 Tuto
 OakJava7(JAVA7.0) Programming Language  is a  World No:1 Programming Language  and  it  is  dual Licensed invented  by  wilmix jemin j 
 (Jemin Information Technology).
 
-
+Note:
+====
+We are planning  to make  OakJava7 (JAVA7.0) programming language the  World Rank A'  programming  Language.
+That means 12 steps  greater than  Web1.0 programming Language.
+And We  are planning  to  make  Web1.0  Programming Language a  World NO:1 Programming  Language.
+This arise due to competition.
