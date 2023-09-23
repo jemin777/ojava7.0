@@ -109,11 +109,8 @@ using Intellij.But Python is failed in indentation.
 iv) OakJava7 is an beautiful programming language with attractive syntax and with few lines of code than python programming Language.
 
 v) OakJava7 module Oakjava8 is  best  in Mobile computing.
-so by this  5 and hidden more disadvantages of python we  can  say  python is not
-a  best and Top programming Language.
 
-Note: oakjava7 has more advantages than python p.l which are hidden 
- and  so --on from  python author and his team. Because they  may  copy the features and implement it.
+
 
 Note:
 
