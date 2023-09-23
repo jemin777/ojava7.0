@@ -17,7 +17,6 @@ want to copy all my features in their research product and they will implement i
  It  also  supports obfuscation, Code Security, and it  is Learnable.It is  easy to learn.
 JAVA7.0   means   Jemin  Advanced  Virtual  Application.
 JAVA7.0   is  even   Advanced   than  Python Programming  language and  all programming Languages.
-OAKJAVA7(JAVA7.0)  will  replace Python programming language  in  Datascience  and  machine learning.
 OakJava7(JAVA7.0) Linux version  is  implemented  in  C/C++, Java,Dotweb3.0 at  year  2021.  
 
 
@@ -44,7 +43,6 @@ JAVA7.0 Programming  Language   is otherwise  known  as  OAKJAVA7(JAVA7.0)
   which is  invented by  wilmix jemin  j  at  year  2013 in  java ,DOTWEB3.0.
 This   two  versions  of  JAVA  (Jdk1.8,jdk1.7)  failed  that  is  using  JAD  decompiler  we  can   
 easily  take   the  source   code.. But using oakjava7  we  can't take the code.
-JAVA7.0  will  replace Python programming language  in  Datascience  and  machine learning.
 We  felt   thanks  to my  best  friends  venkat  friend ,  github ,  and  all  for  their   support..
 
 
@@ -89,10 +87,9 @@ So  J$ give his  concept to  Oakjava7.
 Now JDollar(J$)  real  rank  is  Rank z'''.   
 So  JDollar(J$)  use   machine learning and  datascience before python
 uses  machine learning and  datascience.
-So Oakjava7  will  replace  python  in machine learning and Datascience.
 Jdollar(J$),oakjava7 and  all other  writ  programming language
 is  not  concenterated  in  AI  and  creating robots.
-but Python concenterated on this AI and  creating robots.
+
 
 Why Oakjava7 is the best and top programming language than python p.l?
 ======================================================================
@@ -120,9 +117,8 @@ Note: oakjava7 has more advantages than python p.l which are hidden
 
 Note:
 
-Oakjava7 author is not interested in Robot design (AI) field.Because AI is
-belong to antichrist technology. but python author focused  on AI field. 
-So this oakjava7 jobs work culture is more safe when compared to Python.
+Oakjava7 author is not interested in Robot design (AI) field.Because Robotics 
+belong to antichrist technology according to bibble.
 
 Note:  
 =====
