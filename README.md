@@ -109,16 +109,14 @@ using Intellij.But Python is failed in indentation.
 iv) OakJava7 is an beautiful programming language with attractive syntax and with few lines of code than python programming Language.
 
 v) OakJava7 module Oakjava8 is  best  in Mobile computing.
-so by this  5 and hidden more disadvantages of python we  can  say  python is not
-a  best and Top programming Language.
 
-Note: oakjava7 has more advantages than python p.l which are hidden 
- and  so --on from  python author and his team. Because they  may  copy the features and implement it.
+
 
 Note:
 
-Oakjava7 author is not interested in Robot design (AI) field.Because Robotics 
-belong to antichrist technology according to bibble.
+Oakjava7 author is not interested in Robot design (AI) field. Because Robotics 
+belong to antichrist technology according to bibble book of revelation
+Robotics should be eliminated from ArtificialIntelligence field.
 
 Note:  
 =====
@@ -130,7 +128,7 @@ Since   they  may    copy    the  features   and  try  to  implement  it...
 Oakjava7  is not  released  now. It has no  bugs.
 OakJava7  will  come at  any time that you don't expect it.
 In Oakjava7  first version itself  we will cover 
-80%  the  concepts of  Machine learning and DataScience.
+70%  the  concepts of  Machine learning and DataScience.
 and  remaining concepts will be covered in OakJava7 second version.
 
 
@@ -153,7 +151,7 @@ but unwanted hackers attack my website without any reason. That's why iam delaye
 Oakjava7(JAVA7.0) programming language is not easy to design and invent it. To invent 
 Oakjava7 programming language  is very hard...
 Oakjava7(JAVA7.0) programming language is the technology wisdom given by  God jehovah
-to me. Now also  some  hackers  has  attacked my OakJava7 google site at 22-04-2023.
+to me. 
 
 
 
