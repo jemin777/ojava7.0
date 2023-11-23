@@ -172,7 +172,7 @@ Note: All oakjava7  documents  are  under  construction.So don't read it now ,be
 Important Note:
 ================
 This  GNUGPL3  license  is  for  only  Professional  Edition with  OakJava7 Tutorial. But  enterprise  edition  is  not  free that  is  MIT licensed. since
-OakJava7(JAVA7.0) Programming Language  is a  World No:1 Programming Language  and  it  is  dual Licensed invented  by  wilmix jemin j 
+OakJava7(JAVA7.0) Programming Language  is a  World Rank A' Programming Language  and  it  is  dual Licensed invented  by  wilmix jemin j 
 (Jemin Information Technology).
 
 Note:
