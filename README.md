@@ -3,7 +3,7 @@ OAKJAVA7(JAVA7.0) Tutorial
 ===========================
 
 OAKJAVA7(JAVA7.0) Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. and OAKJAVA7(JAVA7.0) 
- is  a   World No:1 Programming Language and  it  is   focused  on   creating  DataStructures,Console Application with Wnosql DB, and
+ is  a   World Rank A' Programming Language and  it  is   focused  on   creating  DataStructures,Console Application with Wnosql DB, and
  used  in  web application and Used in Remote X application  and  it  has  Advanced Oops.But OakJava7 windows application is  present in JDollarShell
  not present in OakJava7(JAVA7.0). OAKJava7(JAVA7.0) has Advanced concept like Bucket,Extend,etc. But in JdollarShell only J$Shell GUI,Graphics are
  found. Remote X application is Advanced than Python,Webapplication,and all programming Languages.So Say Good bye to olden web application.
@@ -69,11 +69,16 @@ f) JAVA7.0 also includes C# oops concepts.
 
 g) JAVA7.0 also follows attractive syntax.
 
-h) Since it had  100% oops concepts it is ranked as NO:1
-
-Top quality software according to wilmixsolomonresearch lab.
+h) JAVA7.0 have  100% oops concepts. 
 
 i) JAVA7.0 is used with JDollar,CWEB section, JAVA, C#, and with all writ Programming languages.
+
+j) OakJava7(JAVA7.0)  provides high security for  Web / Remote-X application
+
+k) OakJava7(JAVA7.0) contains Optimized code.
+
+l) Due to  this  High security Remote -X Application , High security Webapplications ,Other Advantages,
+and  Other Concepts  So it is Ranked as World Rank A' Programming Language
 
 Note: OakJava7  has  more  advantages than i  given  above..
 
