@@ -37,6 +37,9 @@ The Meaning of OAKJAVA7 or JAVA7.0 is OAK + Jemin Advanced Virtual Machine  OAK 
 Syntax for OakJava7 Machine Learning
 =====================================
 
+
+
+
  <OJ7ML> // Beginning of OakJava7 ML Program
 
 <DESIGN  
@@ -55,6 +58,7 @@ public static void Methods1()
 
 
 
+//Println means print a line 
 
 j7out.println("");
 
@@ -133,21 +137,7 @@ public static void Method2()
 
 
 
-Explanation 
-============
 
-Here when you code the Machine Learning program  using this syntax, it will automatically convert to
-Oakjava7 program ie(.web) . And you will get a optimized oakjava7 (.web) code and .exe and .ojava7 files.
-You can also test the  OakJava7 Machine Learning program using (.web) code...So when we notice that here <OJ7ML> 
-act like a OakJava7 user friendly framework. It act like a XML syntax with data present inside it.
-This Machine Learning program (<OJ7ML) will automatically generate (.web). This (<OJ7ML>) 
-program has attractive syntax.So it is considered as a OakJava7 advanced framework or 
-OakJava7 Machine learning framework. I reduces the pain of writing program for (.web).
-And It saves time and  cost.The Full form of <OJ7ML> program is "OAKJAVA7MACHINELEARNING". 
-It is used for Dynamic Webpages construction ie) DB with GUI + Business Logic and OakJava7 Servlet.
-We can also generate .dll  using this syntax by using .dll value as a Type.
-So when you include .exe value as a Type means when you compile the oakjava7
-it will generate the  .exe files and  .ojava7 files.
 
 
 
