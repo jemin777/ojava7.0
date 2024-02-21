@@ -158,11 +158,45 @@ Oakjava7 programming language  is very hard...
 Oakjava7(JAVA7.0) programming language is the technology wisdom given by  God jehovah
 to me. 
 
+
+
+
+
+Who may  focus OakJava7(JAVA7.0) ?
+==================================
+ For Oakjava7 ,oakjava7 machinelearning,oakjava7 datascience only C or  C++ or C# & Dotnet or Java/j2ee
+
+Professionals or Google Professionals can focus and  read the samples. Because it is designed like this.
+
+Note: All oakjava7  documents  are  under  construction.So don't read it now ,because it will confuse you.
+
+
+Important Note:
+================
+This  GNUGPL3  license  is  for  only  Professional  Edition with  OakJava7 Tutorial. But  enterprise  edition  is  not  free that  is  MIT licensed. since
+OakJava7(JAVA7.0) Programming Language  is a  World Rank A' Programming Language  and  it  is  dual Licensed invented  by  wilmix jemin j 
+(Jemin Information Technology).
+
+
+
+
+Note:
+====
+We are planning  to make  OakJava7 (JAVA7.0) programming language the  World Rank A'  programming  Language.
+That means 12 steps  greater than  Web1.0 programming Language.
+And We  are planning  to  make  Web1.0  Programming Language a  World NO:1 Programming  Language.
+This arise due to competition.
+
+
 Syntax for OakJava7 Machine Learning
 =====================================
 
- <OJ7ML> // Beginning of OakJava7 ML Program
 
+// Beginning of OakJava7 ML Program
+
+ <OJ7ML> 
+
+  
 <DESIGN  
 
 
@@ -264,6 +298,8 @@ public static void Method2()
 
 
 
+
+
 Explanation 
 ============
 
@@ -280,30 +316,3 @@ We can also generate .dll  using this syntax by using .dll value as a Type.
 So when you include .exe value as a Type means when you compile the oakjava7
 it will generate the  .exe files and  .ojava7 files.
 
-
-
-
-Who may  focus OakJava7(JAVA7.0) ?
-==================================
- For Oakjava7 ,oakjava7 machinelearning,oakjava7 datascience only C or  C++ or C# & Dotnet or Java/j2ee
-
-Professionals or Google Professionals can focus and  read the samples. Because it is designed like this.
-
-Note: All oakjava7  documents  are  under  construction.So don't read it now ,because it will confuse you.
-
-
-Important Note:
-================
-This  GNUGPL3  license  is  for  only  Professional  Edition with  OakJava7 Tutorial. But  enterprise  edition  is  not  free that  is  MIT licensed. since
-OakJava7(JAVA7.0) Programming Language  is a  World Rank A' Programming Language  and  it  is  dual Licensed invented  by  wilmix jemin j 
-(Jemin Information Technology).
-
-
-
-
-Note:
-====
-We are planning  to make  OakJava7 (JAVA7.0) programming language the  World Rank A'  programming  Language.
-That means 12 steps  greater than  Web1.0 programming Language.
-And We  are planning  to  make  Web1.0  Programming Language a  World NO:1 Programming  Language.
-This arise due to competition.
