@@ -1,0 +1,384 @@
+Write the OakJava7 Machine Learning program and mention the OakJava7 Syntax 
+============================================================================
+
+for it.
+======
+
+Syntax for OakJava7 Machine Learning
+=====================================
+
+ <OJ7ML> // Beginning of OakJava7 ML Program
+
+<DESIGN  
+
+
+
+// Design is the HTML GUI or variable declarations or method declarations
+
+
+SRC='
+
+// Method declarations
+
+public static void Methods1()
+{
+
+
+
+
+j7out.println("");
+
+
+
+
+
+
+}
+
+
+
+'> 
+
+
+//Close Design for GUI
+
+</DESIGN>	
+
+//Mention name of Package value in Package always mention wnosql as a default value for the Database. 
+
+// Mention OakJava7 library files for machine Learning  in J7Lib eg) Java7ML 
+
+// Mention Package as ML , Names as sampleml1 for namespace name and class name as misctype1
+
+// Mention Type as .exe or .dll 
+
+<OakJava7 Package='ML' Database='wnosql' J7Lib='{Java7ML}' Names='sampleml1,misctype1' Type='exe'  
+
+
+
+
+//Mention MAIN section for OakJava7 main program ie) public void main() can be  written as MAIN
+
+// Mention what are the Business logic methods inside the main program eg) Methods1(),Methods2() in the MAIN section
+
+ MAIN=' 
+
+
+// Methods call
+
+Methods1();
+Methods2();
+
+
+
+
+
+
+
+
+
+// This ( ?> ) is  equivalent to }}.Close the Main Section
+?>
+'
+//LOGIC sections represent Business Logic for OakJava7
+LOGIC=' 
+
+  
+//Business logic methods
+public static void Method2()
+
+{
+
+<!----- write Business Logic and  use OakJava7 Servlet ----!>
+
+}
+
+
+
+
+
+// Close the Logic section
+'>
+
+
+// Close  the OakJava7 program 
+</OakJava7>
+
+
+// End of  Oakjava7 Program
+</OJ7ML>
+
+
+
+Explanation 
+============
+
+Here when you code the Machine Learning program  using this syntax, it will automatically convert to
+Oakjava7 program ie(.web) . And you will get a optimized oakjava7 (.web) code and .exe and .ojava7 files.
+You can also test the  OakJava7 Machine Learning program using (.web) code...So when we notice that here <OJ7ML> 
+act like a OakJava7 user friendly framework. It act like a XML syntax with data present inside it.
+This Machine Learning program (<OJ7ML) will automatically generate (.web). This (<OJ7ML>) 
+program has attractive syntax.So it is considered as a OakJava7 advanced framework or 
+OakJava7 Machine learning framework. I reduces the pain of writing program for (.web).
+And It saves time and  cost.The Full form of <OJ7ML> program is "OAKJAVA7MACHINELEARNING". 
+It is used for Dynamic Webpages construction ie) DB with GUI + Business Logic and OakJava7 Servlet.
+We can also generate .dll  using this syntax by using .dll value as a Type.
+So when you include .exe value as a Type means when you compile the oakjava7
+it will generate the  .exe files and  .ojava7 files.
+
+
+ Write the Chisquare, MeanMedianMode, varianceandSTD ,percentile, Scale methods using 
+
+Oakjava7 MachineLearning Syntax program and print all this details in
+
+Webapplication using Scroll server.
+
+
+
+Sample A
+=========
+
+<OJ7ML>
+
+<DESIGN  
+
+
+
+
+SRC='
+
+
+public static void Display()
+{
+
+
+
+
+j7out.println("");
+
+
+
+
+
+
+}
+
+
+
+'> 
+
+
+
+
+</DESIGN>	
+
+
+<OakJava7 Package='ML' Database='wnosql' J7Lib='{Java7ML}' Names='sampleml1,misctype1' Type='exe'  
+
+
+ MAIN=' 
+
+
+ChiSquaretest();
+
+MeanMedianMode();
+
+varianceandSTD();
+
+percentile();
+
+Scale();
+
+
+
+
+
+
+
+
+
+?>
+'
+
+
+
+
+LOGIC=' 
+
+  
+
+public static void ChiSquaretest()
+
+{
+
+
+PRINTLN("g$BR>");
+            g$OJ7UTIL>.ArrayList observedvalue = new g$OJ7UTIL>.ArrayList();
+
+            g$OJ7UTIL>.ArrayList expectedvalue = new g$OJ7UTIL>.ArrayList();
+
+            observedvalue.add(85);
+
+            observedvalue.add(15);
+
+            expectedvalue.add(75);
+
+            expectedvalue.add(25);
+
+            double chi = Java7ML.ChiSquare.chisquaretest(observedvalue, expectedvalue);
+
+PRINTLN("g$BR>");
+
+            PRINTLN("Observed value=" + Java7ML.ChiSquare.osum);PRINTLN("g$BR>");
+
+            PRINTLN("Expected value=" + Java7ML.ChiSquare.esum);PRINTLN("g$BR>");
+
+            PRINTLN("Chi-Square value=" + chi);
+
+
+PRINTLN("g$BR>");
+
+}
+
+
+
+
+public static void MeanMedianMode()
+
+{
+
+PRINTLN("g$BR>");
+            int n = 5;
+
+            int[] a = { 2, 6, 7, 4, 9 };PRINTLN("g$BR>");
+
+            PRINTLN("Mean ::" + Java7ML.MeanMedianMode.Mean(a, n));
+
+            int[] values = { 2, 3, 6, 12, 15, 34, 65, 78, 99 };
+
+          
+            double median1 = Java7ML.MeanMedianMode.median(values);PRINTLN("g$BR>");
+
+           PRINTLN("Median is : " + median1);
+
+            int[] arrA = { 4, 1, 3, 2, 1, 5, 9, 8, 6, 5, 3, 2, 4, 7,7,7,7,7, 10, 10, 10, 10, 10, 10 };PRINTLN("g$BR>");
+
+            PRINTLN(Java7ML.MeanMedianMode.MaxRepeatingElement(arrA));
+
+            double[] a1 = { 90.5, 90.5, 90.5, 90.5, 99.25,78.34 };
+
+            double sum1 = Java7ML.MeanMedianMode.SUM(a1);PRINTLN("g$BR>");
+
+            PRINTLN("SUM=" + sum1);
+
+            double avg1 = Java7ML.MeanMedianMode.AVG(sum1, a1.Length);PRINTLN("g$BR>");
+
+            PRINTLN("AVG=" + avg1);PRINTLN("g$BR>");
+
+PRINTLN("g$BR>");
+
+}
+
+public static void varianceandSTD()
+
+{
+     
+
+PRINTLN("g$BR>");     
+
+            double [] arr = { 32, 111, 138, 28, 59, 77, 97 };
+
+            int n1 = arr.Length;PRINTLN("g$BR>");
+
+            PRINTLN("Variance: " +
+
+                                 Java7ML.stdvariance.variance(arr, n1));PRINTLN("g$BR>");
+
+            PRINTLN("Standard Deviation: " +
+
+                                 Java7ML.stdvariance.standardDeviation(arr, n1));PRINTLN("g$BR>");
+
+
+PRINTLN("g$BR>");
+
+
+}
+
+
+public static void percentile()
+
+{
+
+       
+PRINTLN("g$BR>");     
+
+            int[] StudentMarks = { 5, 31, 43, 48, 50, 41, 7, 11, 15, 39, 80, 82, 32, 2, 8, 6, 25, 36, 27, 61, 31 };
+
+            int n2 = StudentMarks.Length;
+
+            int percent = 190;PRINTLN("g$BR>");
+
+            PRINTLN("Percentile=" + Java7ML.Percentile.Studentpercentile(StudentMarks, n2, percent));
+
+
+PRINTLN("g$BR>");
+}
+
+        
+
+
+public static void Scale()
+
+{
+
+
+
+PRINTLN("g$BR>");
+
+            double[] ar = { 32, 111, 138, 28, 59, 77, 97 };
+
+            double mean1 = Java7ML.Scale.median(ar);PRINTLN("g$BR>");
+
+            PRINTLN("Mean=" + mean1);
+
+            int n3 = ar.Length;
+
+            double std1 = Java7ML.stdvariance.variance(ar, n3);PRINTLN("g$BR>");
+
+            PRINTLN("STD=" + std1);
+
+            double[] cr = new double[ar.Length];
+
+            cr = Java7ML.Scale.calculate(ar, mean1, std1);PRINTLN("g$BR>");
+
+            for (int i = 0; i g$ cr.Length; i++)
+
+                PRINTLN(" " + cr[i]);
+
+
+PRINTLN("g$BR>");
+
+      }
+
+
+
+
+'>
+
+
+
+</OakJava7>
+
+
+</OJ7ML>
+
+
+
+Output in Scroll Webpage format  is
+====================================
+It will show beautiful Template with the beautiful clock with
+
+values print on the oakjava7 webpage.
+
+
+=================================================================================================
