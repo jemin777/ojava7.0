@@ -34,112 +34,6 @@ Struts, spring , hibernate ,etc and JAVA7.0 is used  in Machine Learning and  Da
 
 The Meaning of OAKJAVA7 or JAVA7.0 is OAK + Jemin Advanced Virtual Machine  OAK gives the meaning Beginning.
 
-Syntax for OakJava7 Machine Learning
-=====================================
-
-
-
-
- <OJ7ML> // Beginning of OakJava7 ML Program
-
-<DESIGN  
-
-
-
-// Design is the HTML GUI or variable declarations or method declarations
-
-
-SRC='
-
-// Method declarations
-
-public static void Methods1()
-{
-
-
-
-//Println means print a line 
-
-j7out.println("");
-
-
-
-
-
-
-}
-
-
-
-'> 
-
-
-//Close Design for GUI
-
-</DESIGN>	
-
-//Mention name of Package value in Package always mention wnosql as a default value for the Database. 
-
-// Mention OakJava7 library files for machine Learning  in J7Lib eg) Java7ML 
-
-// Mention Package as ML , Names as sampleml1 for namespace name and class name as misctype1
-
-// Mention Type as .exe or .dll 
-
-<OakJava7 Package='ML' Database='wnosql' J7Lib='{Java7ML}' Names='sampleml1,misctype1' Type='exe'  
-
-
-
-
-//Mention MAIN section for OakJava7 main program ie) public void main() can be  written as MAIN
-
-// Mention what are the Business logic methods inside the main program eg) Methods1(),Methods2() in the MAIN section
-
- MAIN=' 
-
-
-// Methods call
-
-Methods1();
-Methods2();
-
-// This ( ?> ) is  equivalent to }}.Close the Main Section
-
-?>
-'
-//LOGIC sections represent Business Logic for OakJava7
-LOGIC=' 
-
-  
-//Business logic methods
-public static void Method2()
-
-{
-
-<!----- write Business Logic and  use OakJava7 Servlet ----!>
-
-}
-
-
-
-
-
-// Close the Logic section
-'>
-
-
-// Close  the OakJava7 program 
-</OakJava7>
-
-
-// End of  Oakjava7 Program
-</OJ7ML>
-
-
-
-
-
-
 
 ABOUT JAVA7.0
 =============
@@ -264,6 +158,129 @@ Oakjava7 programming language  is very hard...
 Oakjava7(JAVA7.0) programming language is the technology wisdom given by  God jehovah
 to me. 
 
+Syntax for OakJava7 Machine Learning
+=====================================
+
+ <OJ7ML> // Beginning of OakJava7 ML Program
+
+<DESIGN  
+
+
+
+// Design is the HTML GUI or variable declarations or method declarations
+
+
+SRC='
+
+// Method declarations
+
+public static void Methods1()
+{
+
+
+
+
+j7out.println("");
+
+
+
+
+
+
+}
+
+
+
+'> 
+
+
+//Close Design for GUI
+
+</DESIGN>	
+
+//Mention name of Package value in Package always mention wnosql as a default value for the Database. 
+
+// Mention OakJava7 library files for machine Learning  in J7Lib eg) Java7ML 
+
+// Mention Package as ML , Names as sampleml1 for namespace name and class name as misctype1
+
+// Mention Type as .exe or .dll 
+
+<OakJava7 Package='ML' Database='wnosql' J7Lib='{Java7ML}' Names='sampleml1,misctype1' Type='exe'  
+
+
+
+
+//Mention MAIN section for OakJava7 main program ie) public void main() can be  written as MAIN
+
+// Mention what are the Business logic methods inside the main program eg) Methods1(),Methods2() in the MAIN section
+
+ MAIN=' 
+
+
+// Methods call
+
+Methods1();
+Methods2();
+
+
+
+
+
+
+
+
+
+// This ( ?> ) is  equivalent to }}.Close the Main Section
+?>
+'
+//LOGIC sections represent Business Logic for OakJava7
+LOGIC=' 
+
+  
+//Business logic methods
+public static void Method2()
+
+{
+
+<!----- write Business Logic and  use OakJava7 Servlet ----!>
+
+}
+
+
+
+
+
+// Close the Logic section
+'>
+
+
+// Close  the OakJava7 program 
+</OakJava7>
+
+
+// End of  Oakjava7 Program
+</OJ7ML>
+
+
+
+Explanation 
+============
+
+Here when you code the Machine Learning program  using this syntax, it will automatically convert to
+Oakjava7 program ie(.web) . And you will get a optimized oakjava7 (.web) code and .exe and .ojava7 files.
+You can also test the  OakJava7 Machine Learning program using (.web) code...So when we notice that here <OJ7ML> 
+act like a OakJava7 user friendly framework. It act like a XML syntax with data present inside it.
+This Machine Learning program (<OJ7ML) will automatically generate (.web). This (<OJ7ML>) 
+program has attractive syntax.So it is considered as a OakJava7 advanced framework or 
+OakJava7 Machine learning framework. I reduces the pain of writing program for (.web).
+And It saves time and  cost.The Full form of <OJ7ML> program is "OAKJAVA7MACHINELEARNING". 
+It is used for Dynamic Webpages construction ie) DB with GUI + Business Logic and OakJava7 Servlet.
+We can also generate .dll  using this syntax by using .dll value as a Type.
+So when you include .exe value as a Type means when you compile the oakjava7
+it will generate the  .exe files and  .ojava7 files.
+
+
 
 
 Who may  focus OakJava7(JAVA7.0) ?
@@ -280,6 +297,9 @@ Important Note:
 This  GNUGPL3  license  is  for  only  Professional  Edition with  OakJava7 Tutorial. But  enterprise  edition  is  not  free that  is  MIT licensed. since
 OakJava7(JAVA7.0) Programming Language  is a  World Rank A' Programming Language  and  it  is  dual Licensed invented  by  wilmix jemin j 
 (Jemin Information Technology).
+
+
+
 
 Note:
 ====
