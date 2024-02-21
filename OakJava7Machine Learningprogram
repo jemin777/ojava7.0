@@ -4,8 +4,11 @@ Write the OakJava7 Machine Learning program and mention the OakJava7 Syntax
 for it.
 ======
 
-Syntax for OakJava7 Machine Learning
-=====================================
+Syntax for OakJava7 Machine Learning program
+============================================
+
+<filename>.oj7ua
+=================
 
  <OJ7ML> // Beginning of OakJava7 ML Program
 
@@ -127,16 +130,16 @@ So when you include .exe value as a Type means when you compile the oakjava7
 it will generate the  .exe files and  .ojava7 files.
 
 
- Write the Chisquare, MeanMedianMode, varianceandSTD ,percentile, Scale methods using 
+A) Write the Chisquare, MeanMedianMode, varianceandSTD ,percentile, Scale methods using 
 
 Oakjava7 MachineLearning Syntax program and print all this details in
 
 Webapplication using Scroll server.
 
 
+Samplemleg1.oj7ua
+==================
 
-Sample A
-=========
 
 <OJ7ML>
 
