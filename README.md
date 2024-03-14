@@ -27,12 +27,18 @@ Definition:
 “JAVA7.0   is  meant   for  obfuscation, Code Security, Learnable, Prototype software, Advanced , used  in
 Software  development, web application with machine learning  , and  it  symbolizes  
 STAR  symbol,  used  in  applications  like   consolee and  used  with  java/j2ee  framework  like
-Struts, spring , hibernate ,etc and JAVA7.0 is used  in Machine Learning and  Datascience ".
+mybatics,and hibernate  and JAVA7.0 is used  in Machine Learning and  Datascience ,It is  also
+used  to  create  single webapplication".
+          
+The Meaning of OAKJAVA7  is OAK + Jemin Advanced Virtual Machine  OAK gives the meaning Beginning.
 
+What is the Expansion of JAVA7.0 Programming Language ?
+=======================================================
 
-                            
+Expansion  of  JAVA7.0  is
 
-The Meaning of OAKJAVA7 or JAVA7.0 is OAK + Jemin Advanced Virtual Machine  OAK gives the meaning Beginning.
+J  stands  for Jemin   , A stands   for Advanced , V stands  for  Virtual , and  A  stands for
+Application   , 7 -> stands  for   wise  Programming  Language.
 
 
 ABOUT JAVA7.0
