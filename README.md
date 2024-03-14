@@ -158,6 +158,38 @@ Oakjava7 programming language  is very hard...
 Oakjava7(JAVA7.0) programming language is the technology wisdom given by  God jehovah
 to me. 
 
+Difference between Java(Jdk1.8) and Oakjava7?
+===============================================
+
+Both Java and Oakjava7 is used in webapplication and
+console application.But Java follows cloudcomputing
+Oakjava7 follows Remote-X Application.Oakjava7 is
+not used to create a software like VB.net and
+Java Swing. Oakjava7 is used only with java frameworks like hibernate
+and Mybatics, it is not used with Java Spring ,the reason is Java Spring code is
+very bulk. This Java Spring web/ standalone application
+is very slow when compare to Node.js,Oakjava7(JAVA7.0).
+Oakjava7 is invented in Dotweb and java(jdk1.6).Java Spring
+takes more time to develop a webapplication when compared to OakJava7,Node.js.
+And Oakjava7 has Advanced datastructures when compare to Java(Jdk1.8).
+eg) Pipe,Bag,etc.Remember OakJava7 is not the competitor for Java,C#,
+python,etc. OakJava7 is an interactive programming language. Java is
+not a interactive programming Language.Oakjava7 is used in MachineLearning,
+Datascience,mobile application,and single page application.
+It supports obfuscation, Code Security, and it is Learnable.
+Oakjava7 follows attractive and beautiful Userfriendly framework
+(.oj7ua).Oakjava7 follows Shortest  function Statements.OakJava7 is
+focus on Code Security.Oakjava7 is used with WNOSQL Database which  
+provides high security...Oakjava7 is a standalone programming
+language.That is without help of any available java frameworks 
+Oakjava7 will able to create  webapplication,etc.Oakjava7 is
+a Pure OOPS Programming Language. And Java/j2ee is not a
+Pure OOPS Programming Language.Oakjava7 saves  time and  cost
+and OakJava7 is a highest securable programming language.
+Oakjava7 will compile and run the Oakjava7 program
+at the same time. but Java(Jdk1.8) can't do it.
+
+
 
 
 
