@@ -101,6 +101,73 @@ uses  machine learning and  datascience.
 Jdollar(J$),oakjava7 and  all other  writ  programming language
 is  not  concenterated  in  AI  and  creating robots.
 
+About OakJava7 Programming Language Divisions
+==============================================
+
+OakJava7 is  divided  into  6 types
+
+i) Scroll Server with OakJava7 (.web) and OakJava7 (.ojava7)
+
+ii) Scroll Server with  Java/j2ee and Java (jdk1.8) compiler 
+
+(Note: Here Oakjava7 compiler is not used,instead of that Jdk1.8 compiler is used
+with ScrollServer.Because  Hibernate, Mybatics ,Java Spring are written in Jdk1.8 
+That's why Oakjava7 compiler is not match with java/j2ee frameworks
+Hibernate, Mybatics ,Java Spring ,and EJB.
+so Jdk1.8 versions and  next versions of  Jdk1.8 will not be
+supported to be used with Oakjava7 compiler.
+Here Jsp ,and Servlet will not work in Scroll Server.
+but EJB and JMS will work. You can see the sample for hibernate in SAMPLES SECTION.
+ie) In Oakjava7 google site.
+(Sample-2:Topic: Write   a JAVA7.0 program  with Scroll Program,
+here Jdk1.8 compiler is focused).
+(We advice Java Spring should optimize the source code.So Java(jdk1.8) 
+professionals are permited to be used with most popular server which is Scroll Server.
+)
+
+iii) Scroll Server with (.java7) with Oakjava7 (OAKJAVA7.0) compiler
+
+iv) Machine Learning and  data Science with  UserFriendly frameworks (OJ7UA).
+
+v) Oakjava7  Advanced Samples with  (.web) and  Oakjava7 Console Application.
+
+vi) OakJava7  with Remote X Application (Advanced Application) ( Not released now, i will come later).
+
+
+
+
+======================================================
+
+Doubtful FAQS?
+==============
+
+
+1) Can oakjava7 compiler work  with  Jdk1.8 and java/j2ee frameworks ?
+
+No.
+
+2) Can Oakjava7 compiler compile Jdk1.8 programs ?
+
+No, It will not accept jdk1.8 and other jdk1.8 versions.
+
+3) Is Oakjava7  is the competitor of Java/J2ee?
+
+No , Oakjava7 business is very different when compared
+
+to Oracle business.
+
+4) Is oakjava7 work as a Standalone application?
+
+Yes, it will work without the help of Java/J2ee applications.
+
+
+5) Is OakJava7 a high security Programming Language?
+
+Yes.
+
+
+===================================================================
+
 
 Why Oakjava7 is the best and top programming language than python p.l?
 ======================================================================
