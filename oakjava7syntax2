@@ -1,0 +1,248 @@
+OakJava7 Syntax 2
+==================
+
+
+Filename.java7
+
+================
+
+public  class  <classname>
+
+
+{
+
+
+//This constructor with super method is mandatory, which indicates it is a oakjava7 //program
+
+// This  constructor  should have same name  as  the  classname .
+
+public  <classname>() 
+
+{ 
+
+
+super();
+
+
+}
+
+
+// it means it will not support any java compiler, it is entirely different.
+
+
+public void main()
+
+
+{
+
+
+<! OAKJAVA7 Logic !>
+
+
+}
+
+
+}
+
+
+Example:
+
+Query3.java7
+
+
+ class Query3
+
+{
+
+	public Query3()
+
+	{
+
+		super();
+
+         }
+
+// Method declared for this  Oakjava7 program to print
+
+//the text Welcome! to EveryBody
+
+
+      public void displayhtmltoweb(String a)
+
+{
+
+//print is  to print the text or html GUIS
+
+print("\n\n");
+
+print("<HTML><script> </script><body bgcolor=green> Welcome!</body></html>"++a);
+
+
+print("\n\n");
+
+
+
+}
+
+
+// All the oakjava7 main method  should have public void main() instead of
+
+ //public static void main method  of java language.
+
+        public void main()
+
+	{
+
+// call the displayhtmltoweb
+
+
+displayhtmltoweb(" to EveryBody");
+
+}
+
+}
+
+
+Note:
+=====
+
+This  is  simillar  to  Java Servlet , This  topic  is  mentioned only at  Enterprise  edition. And  this program generated  class file  is  sealed  as
+
+"An Oakjava7(JAVA7.0) compiler - jemin Information  technology - JIT-777-WRIT-0003 Query3.class" .  So this  is another type of oakjava7 program 
+
+and  it is called as  Oakjava7 Servlet.
+
+
+
+JAVA7.0  SYNTAX-2  Program  Structure(.java7)
+
+Declaration Oakjava7  Section  : 
+
+ public class  <classname>
+
+{
+
+//This constructor with super method is mandatory, which indicates it is a oakjava7 //program and  class name and   constructor name should be  same
+
+public  <classname>() 
+
+{ 
+
+super();
+
+}
+
+Documentation  Section 
+
+// it means it will not support any java compiler, it is entirely different.
+
+Package  Statement;
+
+Import  Statement;
+
+OAKJAVA7 LOGIC  SECTION
+
+// Oakjava7  main method should have public void main  method  otherwise oakjava7
+
+program  will not  compile....
+
+   public void main()
+
+{
+
+<! OAKJAVA7 Logic !>
+
+}
+
+CLOSE OAKJAVA7  LOGIC  SECTION   }
+
+LOGIC  OAKJAVA7  DATASTRUCTURE SECTION
+
+class  <CLASSNAME>
+
+{
+
+
+private <CLASSNAME>()
+
+	{
+
+		super();
+
+	}
+
+................
+
+................
+
+................
+
+
+CLOSE LOGIC OAKJAVA7 DATASTRUCTURE SECTION }
+
+
+ENDING  SECTION : 
+
+
+Explanation:
+============
+
+All  JAVA7.0   should    start    oakjava7  declaration section as
+
+
+public class  <classname>
+
+{
+
+//This constructor with super method is mandatory, which indicates it is a oakjava7 program. 
+//The class name and  constructor  of  Oakjava7 program should be  same.
+
+public  <classname>() 
+
+{ 
+
+super();
+
+}   
+
+after that OAKJAVA7 LOGIC  SECTION should be
+
+   public void main()
+
+{
+
+<! OAKJAVA7 Logic !>
+
+}
+
+so <!OAKJAVA7 Logic>  may have print statements, for loop,
+
+Datastructure statements belong to  another class.
+
+But Logic  Oakjava7  DataStructure Section should be in this format
+
+class  <CLASSNAME>
+
+{
+
+
+private <CLASSNAME>()
+
+	{
+
+		super();
+
+	}
+
+and Close Logic Oakjava7 DataStructure section by using   curly braces which is "}".
+
+I hope  this  syntax  change  will be  easy  to  follow  and  to  do programming  
+
+in Oakjava7. I remove the  complexity of  the  oakjava7  program syntax. So now
+
+this  type  of  oakjava7 servlet  syntax  is  learnable.
+
+====================================================================================================================================
+
+
+
