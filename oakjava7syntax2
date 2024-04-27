@@ -242,6 +242,18 @@ in Oakjava7. I remove the  complexity of  the  oakjava7  program syntax. So now
 
 this  type  of  oakjava7 servlet  syntax  is  learnable.
 
+Note:
+=====
+
+This  Oakjava7Syntax2  is  used  for  Oakjava7 Servlet, etc.
+This  syntax  is  easy to focus and it is  learnable.
+and it  generates .class file  which  will be  sealed  with 
+"An Oakjava7(JAVA7.0) compiler - jemin Information  technology - JIT-777-WRIT-0003 Query3.class" .  
+
+So this  is another type of oakjava7 program  and  it is called as  Oakjava7 Servlet.
+and it  has main mehtod  as public void main only.
+
+
 ====================================================================================================================================
 
 
