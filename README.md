@@ -52,8 +52,8 @@ easily  take   the  source   code.. But using oakjava7  we  can't take the code.
 We  felt   thanks  to my  best  friends  venkat  friend ,  github ,  and  all  for  their   support..
 
 
-ADVANTAGES of JAVA7.0
-=======================
+ADVANTAGES of OAKJAVA7(JAVA7.0)
+=================================
 
 a) JAVA7.0 behaves like his parent java and JDollar
 
@@ -82,8 +82,21 @@ i) JAVA7.0 is used with JDollar,CWEB section, JAVA, C#, and with all writ Progra
 j) OakJava7(JAVA7.0)  provides high security for  Web / Remote-X application
 
 k) OakJava7(JAVA7.0) contains Optimized code.
+l)  We know   Tree  datastructures  are  more complex to solve it  for  any Programming Language
+OakJava7 (JAVA7.0)   can   easily solve  this  complex  datastructures  like  Drag and  drop  the 
+child  of tree1 and  put  that child in  another  tree , CRUD  operations  in  Tree,etc.
 
-l) Due to  this  High security Remote -X Application , High security Webapplications ,Other Advantages,
+m)   In  case  of  programming  language  like  C# or Java or PHP or Python or  anyother P.L  ; 
+source  code  can be  taken  using  code reflector  for  C#. For  Java , Code  can  be  taken using  JAD compiler 
+, and for  other programming  language  except  C/C++. For Php,Python  Code security  is  absent. 
+.But  OakJava7  source  code  cannot  be  taken . So  C/C++ ,  Oakjava7   are   the  most  securable  programming 
+Language. So no need   to worry  about   code  security.
+
+Note: You  can see remaining  advantages  in  Oakjava7 Website which is given below....
+https://sites.google.com/site/oakjava7programminglanguage
+
+
+n) Due to  this  High security Remote -X Application , High security Webapplications ,Other Advantages,
 and  Other Concepts  So it is Ranked as World Rank A' Programming Language
 
 Note: OakJava7  has  more  advantages than i  given  above..
