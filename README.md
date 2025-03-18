@@ -24,7 +24,7 @@ OakJava7(JAVA7.0) Linux version  is  implemented  in  C/C++, Java,Dotweb3.0 at  
 Definition:
 ==========
 
-“JAVA7.0   is  meant   for  obfuscation, Code Security, Learnable, Prototype software, Advanced , used  in
+“JAVA7.0   is  meant   for  obfuscation, Code Security, Learnable,jclass type software, Advanced , used  in
 Software  development, web application with machine learning  , and  it  symbolizes  
 STAR  symbol,  used  in  applications  like   consolee and  used  with  java/j2ee  framework  like
 mybatics,and hibernate  and JAVA7.0 is used  in Machine Learning and  Datascience ,It is  also
@@ -55,7 +55,7 @@ We  felt   thanks  to my  best  friends  venkat  friend ,  github ,  and  all  f
 ADVANTAGES of OAKJAVA7(JAVA7.0)
 =================================
 
-a) JAVA7.0 behaves like his parent java and JDollar
+a) JAVA7.0 behaves like his parent java and Dotweb3.0
 
 java fails completly in code security. 
 
@@ -71,13 +71,13 @@ d) JAVA7.0 also supports CDollar concepts.
 
 e) JAVA7.0 is used to create games which cannot be achieved in cdollar and gdollar.
 
-f) JAVA7.0 also includes C# oops concepts.
+f) JAVA7.0 also includes Java oops concepts.
 
 g) JAVA7.0 also follows attractive syntax.
 
 h) JAVA7.0 have  100% oops concepts. 
 
-i) JAVA7.0 is used with JDollar,CWEB section, JAVA, C#, and with all writ Programming languages.
+i) JAVA7.0 is used with DotWeb3.0,CWEB section, and  Java.
 
 j) OakJava7(JAVA7.0)  provides high security for  Web / Remote-X application
 
@@ -87,13 +87,14 @@ OakJava7 (JAVA7.0)   can   easily solve  this  complex  datastructures  like  Dr
 child  of tree1 and  put  that child in  another  tree , CRUD  operations  in  Tree,etc.
 
 m)   In  case  of  programming  language  like  C# or Java or PHP or Python or  anyother P.L  ; 
-source  code  can be  taken  using  code reflector  for  C#. For  Java , Code  can  be  taken using  JAD compiler 
-, and for  other programming  language  except  C/C++. For Php,Python  Code security  is  absent. 
-.But  OakJava7  source  code  cannot  be  taken . So  C/C++ ,  Oakjava7   are   the  most  securable  programming 
-Language. So no need   to worry  about   code  security.
+source  code  can be  taken  using  code reflector  for c++, C#. For  Java , Code  can  be  taken using  JAD compiler 
+, and for  other programming  language. For Php,Python  Code security  is  absent. 
+.But  OakJava7  source  code  cannot  be  taken . So    Oakjava7   are   the  most  securable  programming 
+Language. So no need   to worry  about   code  security. Oakjava7 will work in
+Windows and LInux type  platforms.
 
 Note: You  can see remaining  advantages  in  Oakjava7 Website which is given below....
-https://sites.google.com/site/oakjava7programminglanguage
+This tutorial website  is under  construction.
 
 
 n) Due to  this  High security Remote -X Application , High security Webapplications ,Other Advantages,
@@ -119,14 +120,15 @@ About OakJava7 Programming Language Divisions
 
 OakJava7 is  divided  into  6 types
 
-i) Scroll Server with OakJava7 (.web) and OakJava7 (.ojava7)
 
-ii) Scroll Server with  Java/j2ee and Java (jdk1.8) compiler 
+
+i) Scroll Server with  Java/j2ee,Oakjava7, and Java (jdk1.8) compiler 
 
 (Note: Here Oakjava7 compiler is not used,instead of that Jdk1.8 compiler is used
 with ScrollServer.Because  Hibernate, Mybatics ,Java Spring are written in Jdk1.8 
 That's why Oakjava7 compiler is not match with java/j2ee frameworks
-Hibernate, Mybatics ,Java Spring ,and EJB.
+Hibernate, Mybatics ,Java Spring ,and EJB. But Oakjava7 will
+be  used  in case of providing security for Java/J2ee platform.
 so Jdk1.8 versions and  next versions of  Jdk1.8 will not be
 supported to be used with Oakjava7 compiler.
 Here Jsp ,and Servlet will not work in Scroll Server.
