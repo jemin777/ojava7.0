@@ -234,7 +234,7 @@ This OakJava7 tutorial is  GNU GPL3 licensed.
 
 For OakJava7 Programming Language tutorial  see :
 
-https://sites.google.com/site/oakjava7programminglanguage
+https://sites.google.com/view/oakjava7programminglanguage
 
 About the OakJava7 Programming Language
 =========================================
