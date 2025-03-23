@@ -2,9 +2,8 @@
 OJAVA7(JAVA7.0) Tutorial
 ===========================
 
-OJAVA7(JAVA7.0) Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. and OAKJAVA7(JAVA7.0) 
- is  a   World Rank A' Programming Language and  it  is   focused  on   creating  DataStructures,Console Application with Wnosql DB, and
- used  in  web application and Used in Remote X application  and  it  has  Advanced Oops.But OakJava7 windows application is  present in JDollarShell
+OJAVA7(JAVA7.0) Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. and OJAVA7(JAVA7.0)  is  a   World Rank A' Programming Language and  it  is   focused  on   creating  DataStructures,Console Application with Wnosql DB, and
+ used  in  web application and Used in Remote X application  and  it  has  Advanced Oops.But OJava7 windows application is  present in JDollarShell
  not present in OJava7(JAVA7.0). OJava7(JAVA7.0) has Advanced concept like Bucket,Extend,etc. But in JdollarShell only J$Shell GUI,Graphics are
  found. Remote X application is Advanced than Python,Webapplication,and all programming Languages.So Say Good bye to olden web application.
   OakJava7 is otherwise known as OJava7.Because many Tech Guys think it as java7 version. 
@@ -31,7 +30,7 @@ STAR  symbol,  used  in  applications  like   consolee and  used  with  java/j2e
 mybatics,and hibernate  and JAVA7.0 is used  in Machine Learning and  Datascience ,It is  also
 used  to  create  single webapplication".
           
-The Meaning of OAKJAVA7  is O + Jemin Advanced Virtual Machine  OAK gives the meaning Beginning.
+The Meaning of OJAVA7  is O + Jemin Advanced Virtual Machine  OAK gives the meaning Beginning.
 
 What is the Expansion of JAVA7.0 Programming Language ?
 =======================================================
@@ -57,7 +56,7 @@ easily  take   the  source   code.. But using oakjava7  we  can't take the code.
 We  felt   thanks  to my  best  friends  venkat  friend ,  github ,  and  all  for  their   support..
 
 
-ADVANTAGES of OAKJAVA7(JAVA7.0)
+ADVANTAGES of OJAVA7(JAVA7.0)
 =================================
 
 a) JAVA7.0 behaves like his parent java and Dotweb3.0
@@ -86,7 +85,7 @@ i) JAVA7.0 is used with DotWeb3.0,CWEB section, and  Java.
 
 j) OakJava7(JAVA7.0)  provides high security for  Web / Remote-X application
 
-k) OakJava7(JAVA7.0) contains Optimized code.
+k) OJava7(JAVA7.0) contains Optimized code.
 l)  We know   Tree  datastructures  are  more complex to solve it  for  any Programming Language
 OakJava7 (JAVA7.0)   can   easily solve  this  complex  datastructures  like  Drag and  drop  the 
 child  of tree1 and  put  that child in  another  tree , CRUD  operations  in  Tree,etc.
@@ -105,9 +104,9 @@ This tutorial website  is under  construction.
 n) Due to  this  High security Remote -X Application , High security Webapplications ,Other Advantages,
 and  Other Concepts  So it is Ranked as World Rank A' Programming Language
 
-Note: OakJava7  has  more  advantages than i  given  above..
+Note: OJava7  has  more  advantages than i  given  above..
 
- ABOUT  OAKJAVA7 with MachineLearning and  Datascience History
+ ABOUT  OJAVA7 with MachineLearning and  Datascience History
 ==============================================================
 
 J@ framework from  J$part2 focused for Mathematical statistics and  Datascience.
@@ -189,7 +188,7 @@ Yes.
 ===================================================================
 
 
-Why Oakjava7 is the best and top programming language than python p.l?
+Why Ojava7 is the best and top programming language than python p.l?
 ======================================================================
 
 i) Both Oakjava7 and java/j2ee  is like  english fluent language.
@@ -440,4 +439,9 @@ It is used for Dynamic Webpages construction ie) DB with GUI + Business Logic an
 We can also generate .dll  using this syntax by using .dll value as a Type.
 So when you include .exe value as a Type means when you compile the oakjava7
 it will generate the  .exe files and  .ojava7 files.
+
+Note: 
+
+This docuemnt is under  construction.
+
 
