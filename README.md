@@ -1,12 +1,13 @@
 
-OAKJAVA7(JAVA7.0) Tutorial
+OJAVA7(JAVA7.0) Tutorial
 ===========================
 
-OAKJAVA7(JAVA7.0) Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. and OAKJAVA7(JAVA7.0) 
+OJAVA7(JAVA7.0) Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. and OAKJAVA7(JAVA7.0) 
  is  a   World Rank A' Programming Language and  it  is   focused  on   creating  DataStructures,Console Application with Wnosql DB, and
  used  in  web application and Used in Remote X application  and  it  has  Advanced Oops.But OakJava7 windows application is  present in JDollarShell
- not present in OakJava7(JAVA7.0). OAKJava7(JAVA7.0) has Advanced concept like Bucket,Extend,etc. But in JdollarShell only J$Shell GUI,Graphics are
+ not present in OJava7(JAVA7.0). OJava7(JAVA7.0) has Advanced concept like Bucket,Extend,etc. But in JdollarShell only J$Shell GUI,Graphics are
  found. Remote X application is Advanced than Python,Webapplication,and all programming Languages.So Say Good bye to olden web application.
+  OakJava7 is otherwise known as OJava7.Because many Tech Guys think it as java7 version. 
  
  It is used in Remote X application which is not opensource.Because Remote X application is
 different from webapplication and this concept is  invented by Wilmix Jemin j.This Remote X application and
@@ -24,21 +25,25 @@ OakJava7(JAVA7.0) Linux version  is  implemented  in  C/C++, Java,Dotweb3.0 at  
 Definition:
 ==========
 
-“JAVA7.0   is  meant   for  obfuscation, Code Security, Learnable,jclass type software, Advanced , used  in
+“OJAVA7   is  meant   for  obfuscation, Code Security, Learnable,jclass type software, Advanced , used  in
 Software  development, web application with machine learning  , and  it  symbolizes  
 STAR  symbol,  used  in  applications  like   consolee and  used  with  java/j2ee  framework  like
 mybatics,and hibernate  and JAVA7.0 is used  in Machine Learning and  Datascience ,It is  also
 used  to  create  single webapplication".
           
-The Meaning of OAKJAVA7  is OAK + Jemin Advanced Virtual Machine  OAK gives the meaning Beginning.
+The Meaning of OAKJAVA7  is O + Jemin Advanced Virtual Machine  OAK gives the meaning Beginning.
 
 What is the Expansion of JAVA7.0 Programming Language ?
 =======================================================
 
-Expansion  of  JAVA7.0  is
+Expansion of JAVA7.0 is
 
-J  stands  for Jemin   , A stands   for Advanced , V stands  for  Virtual , and  A  stands for
-Application   , 7 -> stands  for   wise  Programming  Language.
+J stands for Jemin , A stands for Advanced , V stands for Virtual , 
+
+and A stands for Application , 7 -> stands for wise Programming Language,
+and O stands for Olive
+
+
 
 
 ABOUT JAVA7.0
