@@ -106,6 +106,103 @@ and  Other Concepts  So it is Ranked as World Rank A' Programming Language
 
 Note: OJava7  has  more  advantages than i  given  above..
 
+
+
+
+
+Did Ojava7 has limitations?
+===========================
+
+
+
+
+
+No,Ojava7 did not have any limitations.The reasons for it are given below...
+
+
+1) Once you study Java/j2ee you can easily
+
+write a  program in ojava7.
+
+
+2) Ojava7 is a new Programming Language
+
+in SIT field.A useless software should be
+
+replaced by a good software. As we change
+
+our shirt every day so C/C++,pascal,foxpro or olden 
+
+softwares  should be replaced by new one.This
+
+is what SIT focus. Computer field should be a
+
+learnable field. 
+
+
+3) Ojava7 did not focus on AI (Artificial Intelligence)
+
+because AI is a antichrist technology..So Ojava7 did not follow AI, instead of that RAI is used. As written in bible book of revelation 13 -> Image represent ROBOT will kill all the people ,business man ,etc in this World who accepts lord jesus christ as Lord.So robot is an antichrist technology.AI is replacing human jobs.This AI is very dangerous technology.
+
+
+4) Remote X application is a new concept.After machine learning,etc, all are released.
+
+In Oakjava7 Remote X application we can use
+
+with java framework like Hibernate,JPA,and Jdk compiler
+
+like Jdk1.8,Java 11, and Jdk17. But Ojava7 will work faster
+
+than C/C++.For Remote X application instead we use
+
+<WEB> , tech guys should use <J7Remote>.
+
+If you know OJ7UA framework then it is very easy
+
+to focus Ojava7 Remote X application.only the
+
+Syntax <WEB> or <JAVA> is  replaced by <J7Remote>
+
+remaining syntax of .oj7ua or .web will not change.
+
+So their is no new to learn for Ojava7 Remote X application. So learning ojava7 Remote X application may not need  any additional effort.
+
+5) Ojava7 has Good performance. Because it is faster
+
+and have Good Memory Management. In enterprise edition you can learn
+
+depth about Ojava7 memory management topics. So Ojava7 saves time
+
+and it has Good performance.
+
+6) Ojava7 did not have any compactibility issues,
+
+why because it will work on any browsers.
+
+7) Ojava7 is the Powerful/Versalite programming
+
+language greater than all Programming languages
+
+in the world.It will work without any support of
+
+any Programming language.Ojava7 is the 12 times
+
+greater than web1.0 programming langauge.
+
+Ojava7 is not a competitor to other programming
+
+language.It's the competitor thought to attack
+
+Ojava7. Because they don't like God jehovah,
+
+Holysprit, and Lord Jesus christ.So Devil children
+
+will always behave like this,and don't talk or believe them.
+
+Ojava7 is my 3rd wisdom given by Lord jesus christ to me.
+
+From this we understood Ojava7 P.L did not have any limitations.
+
  ABOUT  OJAVA7 with MachineLearning and  Datascience History
 ==============================================================
 
