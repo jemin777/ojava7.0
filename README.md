@@ -155,7 +155,7 @@ like Jdk1.8,Java 11, and Jdk17. But Ojava7 will work faster
 
 than C/C++.For Remote X application instead we use
 
-<WEB> , tech guys should use <J7Remote>.
+<WEB> syntax , tech guys should use <J7Remote> syntax.
 
 If you know OJ7UA framework then it is very easy
 
