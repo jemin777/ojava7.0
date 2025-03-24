@@ -161,7 +161,8 @@ If you know OJ7UA framework then it is very easy
 
 to focus Ojava7 Remote X application.only the
 
-Syntax <WEB> or <JAVA> is  replaced by <J7Remote>
+Syntax <WEB> or <JAVA> is  replaced by   <J7Remote>
+
 
 remaining syntax of .oj7ua or .web will not change.
 
@@ -202,6 +203,7 @@ will always behave like this,and don't talk or believe them.
 Ojava7 is my 3rd wisdom given by Lord jesus christ to me.
 
 From this we understood Ojava7 P.L did not have any limitations.
+
 
  ABOUT  OJAVA7 with MachineLearning and  Datascience History
 ==============================================================
