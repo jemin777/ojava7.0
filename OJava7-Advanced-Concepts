@@ -1,1121 +1,1069 @@
-Ojava7 Advanced  Concepts
-===========================
+<p>Ojava7 Advanced Concepts</p><br><p> ===========================</p><BR>
 
-This  is about  Ojava7 Advanced Concepts invented by Wilmix Jemin j belong  to  Ojava7 Programming Language
-which  will  be  used   with OJAVA7  Programming Language. Its file extension  is  .oakjava7.
-  OJava7 contains more Advanced  Concepts(Ojava7 util packages) that can be used to solve complex problems and Complex logics.
-  This things are absent in all Programming Languages.That's why Ojava7 is called as a 100% pure  Advanced Concepts.
-  Which are given below
-  
-Ojava7 util packages
-=======================
-  
-BUCKET
--------
+<p>This is about Ojava7 Advanced Concepts invented by Wilmix Jemin j belong to Ojava7 Programming Language which will be used with OJAVA7 Programming Language. Its file extension is .oakjava7.  OJava7 contains more Advanced Concepts(Ojava7 util packages) that can be used to solve complex problems and Complex logics.  This things are absent in all Programming Languages.That's why Ojava7 is called as a 100% pure Advanced Concepts.  Which are given below   Ojava7 util packages =======================   BUCKET -------</p>
 
-Bucket are used to store key,value data, and Generated Random number
+<p>Bucket are used to store key,value data, and Generated Random number</p>
 
-where datatype may be string ,object ,etc.
+<p>where datatype may be string ,object ,etc.</p>
 
-SYNTAX:
-------
+<p>SYNTAX: ------</p>
 
-Bucket<DATATYPE> list = <NEW> Bucket<DATATYPE>(<DATATYPEVALUE>);
+<p>Bucket<DATATYPE> list = <NEW> Bucket<DATATYPE>(<DATATYPEVALUE>);</p>
 
-list.KeyAdd(<DATATYPEVALUE>);
+<p>list.KeyAdd(<DATATYPEVALUE>);</p>
 
-list.add(<DATATYPEVALUE>);
+<p>list.add(<DATATYPEVALUE>);</p>
 
-list.RandomAdd();
+<p>list.RandomAdd();</p>
 
-list.Display(list);
+<p>list.Display(list);</p>
 
-Advantages
+<p>Advantages</p>
 
-----------
+<p>----------</p>
 
-Using Bucket you can also Retrieve the values stored n position.
+<p>Using Bucket you can also Retrieve the values stored n position.</p>
 
-Searching and Insertion is fast than other DTS.
+<p>Searching and Insertion is fast than other DTS.</p>
 
-Random Indexing is possible.
+<p>Random Indexing is possible.</p>
 
-eg) If you store a duplicate value such Random key will be different.
+<p>eg) If you store a duplicate value such Random key will be different.</p>
 
-It also used to add many values.
+<p>It also used to add many values.</p>
 
-EXTEND
+<p>EXTEND</p>
 
-------
+<p>------</p>
 
-Extend class is used in ,<OAKJAVA7> since to provide multiple inheritence
+<p>Extend class is used in ,<OAKJAVA7> since to provide multiple inheritence</p>
 
-about 100000000 classes . Extends class also list values in methods and
+<p>about 100000000 classes . Extends class also list values in methods and</p>
 
-constructor values.
+<p>constructor values.</p>
 
-Extend means a Bucket contains List of class and it is also
+<p>Extend means a Bucket contains List of class and it is also</p>
 
-Behave like Bucket. So it is also one of the Advanced concepts in JDollarShell.
+<p>Behave like Bucket. So it is also one of the Advanced concepts in JDollarShell.</p>
 
-SYNTAX:
+<p>SYNTAX:</p>
 
---------
+<p>--------</p>
 
-EXTEND <<DATATYPE>> list11 = <NEW> EXTEND <<DATATYPE>> (STRING);
+<p>EXTEND <<DATATYPE>> list11 = <NEW> EXTEND <<DATATYPE>> (STRING);</p>
 
-list.KeyAdd(<DATATYPEVALUE>);
+<p>list.KeyAdd(<DATATYPEVALUE>);</p>
 
-list.add(<DATATYPEVALUE>);
+<p>list.add(<DATATYPEVALUE>);</p>
 
-list.RandomAdd();
+<p>list.RandomAdd();</p>
 
-list.Display(list);
+<p>list.Display(list);</p>
 
-Advantages:
+<p>Advantages:</p>
 
-It is also used to add many values
+<p>It is also used to add many values</p>
 
-Indexing is possible
+<p>Indexing is possible</p>
 
-Value can also be list by index and behave like bucket.
+<p>Value can also be list by index and behave like bucket.</p>
 
-It list only the class value and object value.
+<p>It list only the class value and object value.</p>
 
-It is stateless.
+<p>It is stateless.</p>
 
-PIPE:
+<p>PIPE:</p>
 
------
+<p>-----</p>
 
-PIPE is used to maintain stateful state.
+<p>PIPE is used to maintain stateful state.</p>
 
-It is used for DataFlow in a Program. We can also add the values,
+<p>It is used for DataFlow in a Program. We can also add the values,</p>
 
-Constructor values of one class and other class and display it.
+<p>Constructor values of one class and other class and display it.</p>
 
-It also list the values from the Bucket.
+<p>It also list the values from the Bucket.</p>
 
-SYNTAX:
+<p>SYNTAX:</p>
 
--------
+<p>-------</p>
 
-Pipe <<DATATYPE>> list11 = <NEW> Pipe <<DATATYPE>> (STRING);
+<p>Pipe <<DATATYPE>> list11 = <NEW> Pipe <<DATATYPE>> (STRING);</p>
 
-list.KeyAdd(<DATATYPEVALUE>);
+<p>list.KeyAdd(<DATATYPEVALUE>);</p>
 
-list.add(<DATATYPEVALUE>);
+<p>list.add(<DATATYPEVALUE>);</p>
 
-list.RandomAdd();
+<p>list.RandomAdd();</p>
 
-list.Display(list);
+<p>list.Display(list);</p>
 
-BUCKET
+<p>BUCKET</p>
 
--------
+<p>-------</p>
 
-Bucket are used to store key,value data, and Generated Random number
+<p>Bucket are used to store key,value data, and Generated Random number</p>
 
-where datatype may be string ,object ,etc.
+<p>where datatype may be string ,object ,etc.</p>
 
-SYNTAX:
+<p>SYNTAX:</p>
 
-----------
+<p>----------</p>
 
-Bucket<DATATYPE> list = <NEW> Bucket<DATATYPE>(<DATATYPEVALUE>);
+<p>Bucket<DATATYPE> list = <NEW> Bucket<DATATYPE>(<DATATYPEVALUE>);</p>
 
-list.KeyAdd(<DATATYPEVALUE>);
+<p>list.KeyAdd(<DATATYPEVALUE>);</p>
 
-list.add(<DATATYPEVALUE>);
+<p>list.add(<DATATYPEVALUE>);</p>
 
-list.RandomAdd();
+<p>list.RandomAdd();</p>
 
-list.Display(list);
+<p>list.Display(list);</p>
 
-Advantages
-----------
+<p>Advantages ----------</p>
 
-Using Bucket you can also Retrieve the values stored n position.
+<p>Using Bucket you can also Retrieve the values stored n position.</p>
 
-Searching and Insertion is fast than other DTS.
+<p>Searching and Insertion is fast than other DTS.</p>
 
-Random Indexing is possible.
+<p>Random Indexing is possible.</p>
 
-eg) If you store a duplicate value such Random key will be different.
+<p>eg) If you store a duplicate value such Random key will be different.</p>
 
-It also used to add many values.
+<p>It also used to add many values.</p>
 
-EXTEND
+<p>EXTEND</p>
 
-------
+<p>------</p>
 
-Extend class is used in ,<OAKJAVA7> since to provide multiple inheritence
+<p>Extend class is used in ,<OAKJAVA7> since to provide multiple inheritence</p>
 
-about 100000000 classes . Extends class also list values in methods and
+<p>about 100000000 classes . Extends class also list values in methods and</p>
 
-constructor values.
+<p>constructor values.</p>
 
-Extend means a Bucket contains List of class and it is also
+<p>Extend means a Bucket contains List of class and it is also</p>
 
-Behave like Bucket. So it is also one of the Advanced concepts in JDollarShell.
+<p>Behave like Bucket. So it is also one of the Advanced concepts in JDollarShell.</p>
 
-SYNTAX:
+<p>SYNTAX:</p>
 
---------
+<p>--------</p>
 
-EXTEND <<DATATYPE>> list11 = <NEW> EXTEND <<DATATYPE>> (STRING);
+<p>EXTEND <<DATATYPE>> list11 = <NEW> EXTEND <<DATATYPE>> (STRING);</p>
 
-list.KeyAdd(<DATATYPEVALUE>);
+<p>list.KeyAdd(<DATATYPEVALUE>);</p>
 
-list.add(<DATATYPEVALUE>);
+<p>list.add(<DATATYPEVALUE>);</p>
 
-list.RandomAdd();
+<p>list.RandomAdd();</p>
 
-list.Display(list);
+<p>list.Display(list);</p>
 
-Advantages:
-===========
+<p>Advantages: ===========</p>
 
-It is also used to add many values
+<p>It is also used to add many values</p>
 
-Indexing is possible
+<p>Indexing is possible</p>
 
-Value can also be list by index and behave like bucket.
+<p>Value can also be list by index and behave like bucket.</p>
 
-It list only the class value and object value.
+<p>It list only the class value and object value.</p>
 
-It is stateless.
+<p>It is stateless.</p>
 
-PIPE:
+<p>PIPE:</p>
 
------
+<p>-----</p>
 
-PIPE is used to maintain stateful state.
+<p>PIPE is used to maintain stateful state.</p>
 
-It is used for DataFlow in a Program. We can also add the values,
+<p>It is used for DataFlow in a Program. We can also add the values,</p>
 
-Constructor values of one class and other class and display it.
+<p>Constructor values of one class and other class and display it.</p>
 
-It also list the values from the Bucket.
+<p>It also list the values from the Bucket.</p>
 
-SYNTAX:
+<p>SYNTAX:</p>
 
--------
+<p>-------</p>
 
-Pipe <<DATATYPE>> list11 = <NEW> Pipe <<DATATYPE>> (STRING);
+<p>Pipe <<DATATYPE>> list11 = <NEW> Pipe <<DATATYPE>> (STRING);</p>
 
-list.KeyAdd(<DATATYPEVALUE>);
+<p>list.KeyAdd(<DATATYPEVALUE>);</p>
 
-list.add(<DATATYPEVALUE>);
+<p>list.add(<DATATYPEVALUE>);</p>
 
-list.RandomAdd();
+<p>list.RandomAdd();</p>
 
-list.Display(list);
+<p>list.Display(list);</p>
 
-OakJava7 MAIN  Program Syntax  AND ADVANCED   CONCEPTS  PROGRAM.
+<p>OJava7 MAIN Program Syntax AND ADVANCED CONCEPTS PROGRAM.</p>
 
-(.oakjava7)
+<p>(.oakjava7)</p>
 
-Syntax:
+<p>Syntax:</p>
 
+<p> <OJAVA7></p>
 
-<OJAVA7>
+<p><PACK> <NAMESPACE></p>
 
-<PACK> <NAMESPACE>
+<p><%</p>
 
-<%
+<p> <CLASS> <CLASSNAME></p>
 
-    <CLASS> <CLASSNAME>
+<p> {</p>
 
-    {
+<p> public void main()</p>
 
-        public void main()
+<p> {</p>
 
-        {
+<p></p>
 
-            
+<p><! OJava7 LOGIC!></p>
 
-<!  OakJava7  LOGIC!>              
+<p></p>
 
-               
+<p></p>
 
-     
+<p>%></p>
 
-%>
+<p>?></p>
 
-?>
+<p>BAG</p>
 
-BAG
+<p>=====</p>
 
-=====
+<p>Bag is the extension of LinkedHashmap and it is the fastest</p>
 
-Bag is the extension of LinkedHashmap and it is the fastest
+<p>datastructures than Dictionary.</p>
 
-datastructures than Dictionary.
+<p>SYNTAX:</p>
 
-SYNTAX:
+<p>=======</p>
 
-=======
+<p>Bag object = new Bag();</p>
 
-Bag object = new Bag();
+<p>object .put(key,value);</p>
 
-object .put(key,value);
+<p>Functions</p>
 
-Functions
+<p>getValues(key) => it is used to get the values for a particular key</p>
 
-getValues(key) => it is used to get the values for a particular key
+<p>get(key,loc) => it is used to get the value stored at a loc (indexing</p>
 
-get(key,loc) => it is used to get the value stored at a loc (indexing
+<p>purpose)</p>
 
-purpose)
+<p>boolean containsValue(object Value) => To check the value present in bag or</p>
 
-boolean containsValue(object Value) => To check the value present in bag or
+<p>not.</p>
 
-not.
+<p>put(key,value) => it is used to add key and value in Bag</p>
 
-put(key,value) => it is used to add key and value in Bag
+<p>remove(key ,value) => It is used to remove key and value.</p>
 
-remove(key ,value) => It is used to remove key and value.
+<p>TreeList</p>
 
-TreeList
+<p>========</p>
 
-========
+<p>TreeList simillar to Bucket but store items in tree format.</p>
 
-TreeList simillar to Bucket but store items in tree format.
+<p>TreeList list = new TreeList (&quot;BUCKETS&quot;);</p>
 
-TreeList list = new TreeList ("BUCKETS");
+<p>list.KeyAdd(KEY);</p>
 
-list.KeyAdd(KEY);
+<p>list.add(VALUE1);</p>
 
-list.add(VALUE1);
+<p>list.RandomAdd(RANDOMNO);</p>
 
-list.RandomAdd(RANDOMNO);
+<p>list.DisplayO(list,0);</p>
 
-list.DisplayO(list,0);
+<p>MASK</p>
 
-MASK
+<p>====</p>
 
-====
+<p>It is the extension of Tree Structure and it can store many values</p>
 
-It is the extension of Tree Structure and it can store many values
+<p>using mask object and we can also retrieve the values stored in mask.</p>
 
-using mask object and we can also retrieve the values stored in mask.
+<p>Mask m = new Mask(<DATATYPE>);</p>
 
-Mask m = new Mask(<DATATYPE>);
+<p>m.add(multiple values);</p>
 
-m.add(multiple values);
+<p>m.getR(Loc); => Get the values stored in right position</p>
 
-m.getR(Loc); => Get the values stored in right position
+<p>m.getL(LOC) => Get the values stored in left position</p>
 
-m.getL(LOC) => Get the values stored in left position
+<p>HEAP:</p>
 
-HEAP:
+<p>====</p>
 
-====
+<p>Creates a tree , puts the data into tree in a fairly balanced way and displays</p>
 
-Creates a tree , puts the data into tree in a fairly balanced way and displays
+<p>the tree's size and data in a tree by performing an inorder traversal.</p>
 
-the tree's size and data in a tree by performing an inorder traversal.
+<p>Heap hob = new Heap(<datatype>);</p>
 
-Heap hob = new Heap(<datatype>);
+<p>hob.add(datum);</p>
 
-hob.add(datum);
+<p>hob = new Heap(key,value1,value2);</p>
 
-hob = new Heap(key,value1,value2);
+<p>Bucktist</p>
 
-Bucktist
+<p>==========</p>
 
-==========
+<p>Bucktist is simillar to Bucket but it is used to addd two values with one</p>
 
-Bucktist is simillar to Bucket but it is used to addd two values with one
+<p>key.</p>
 
-key.
+<p>Bucktist l = null;</p>
 
-Bucktist l = null;
+<p>l= new Bucktist(key,value1,value2);</p>
 
-l= new Bucktist(key,value1,value2);
+<p>WICKET</p>
 
-WICKET
+<p>=======</p>
 
-=======
+<p>Wicket is used to store multiple values using same object with</p>
 
-Wicket is used to store multiple values using same object with
+<p>4 values per key.</p>
 
-4 values per key.
+<p>Syntax:</p>
 
-Syntax:
+<p>Wicket list12;</p>
 
-Wicket list12;
+<p>list12=new Wicket(key,v1,v2,v3,v4);</p>
 
-list12=new Wicket(key,v1,v2,v3,v4);
+<p>list12.Display();</p>
 
-list12.Display();
+<p>list12.Display(list12,location);</p>
 
-list12.Display(list12,location);
+<p> EXAMPLE -1: BAG ===============</p>
 
+<p><OJAVA7></p>
 
-EXAMPLE -1: BAG
-===============
+<p><PACK> MyP</p>
 
-<OAKJAVA7>
+<p><%</p>
 
-<PACK> MyP
+<p> <CLASS> Programs</p>
 
-<%
+<p> {</p>
 
-    <CLASS> Programs
+<p> public void main()</p>
 
-    {
+<p> {</p>
 
-        public void main()
+<p></p>
 
-        {
+<p> Bag b <NEW> Bag();</p>
 
-            
+<p>b.PUT(1,34);</p>
 
-        Bag  b <NEW> Bag();
+<p>b.PUT(2,444);</p>
 
-b.PUT(1,34);
+<p><PRINTLN>(&quot;&quot;+b);</p>
 
-b.PUT(2,444);
+<p></p>
 
-<PRINTLN>(""+b);
+<p></p>
 
-              
+<p></p>
 
-               
+<p>%></p>
 
-     
+<p>?></p>
 
-%>
+<p>EXAMPLE:2 : OAKJAVA7-CDOLLARARRAYS</p>
 
-?>
+<p>==========</p>
 
-EXAMPLE:2  : OAKJAVA7-CDOLLARARRAYS
+<p><OAKJAVA7></p>
 
-==========
+<p><USE> CUTIL;</p>
 
-<OAKJAVA7>
+<p><PACK> MyP</p>
 
-<USE> CUTIL;
+<p>{</p>
 
-<PACK> MyP
+<p> <CLASS> Programs</p>
 
-{
+<p> {</p>
 
-    <CLASS> Programs
+<p></p>
 
-    {
+<p> public void main()</p>
 
-         
+<p> {</p>
 
-        public void main()
+<p></p>
 
-        {
+<p>ArrayList ar <NEW> ArrayList ();</p>
 
-            
+<p>for (int i=0;i<=100;i++)</p>
 
-ArrayList ar <NEW> ArrayList ();
+<p>ar.add(i,i);</p>
 
-for (int i=0;i<=100;i++)
+<p><CDOLLARARRAYS> list1 <NEW> <CDOLLARARRAYS>(&quot;ANIMALS &quot;);</p>
 
-ar.add(i,i);
+<p> list1.add(&quot;1 horse&quot;);</p>
 
+<p>list1.add(&quot;2 pig&quot;);</p>
 
+<p>list1.add(&quot;3 cow&quot;);</p>
 
-<CDOLLARARRAYS> list1 <NEW>  <CDOLLARARRAYS>("ANIMALS ");
+<p>list1.add(&quot;4 goat&quot;);</p>
 
-        list1.add("1 horse");
+<p>list1.add(&quot;5 chicken&quot;);</p>
 
-list1.add("2 pig");
+<p> list1.add(&quot;6 ostrich&quot;);</p>
 
-list1.add("3 cow");
+<p>list1.add(ar.StringConvert());</p>
 
-list1.add("4 goat");
+<p> for (int i=0;i<list1.size();i++)</p>
 
-list1.add("5 chicken");
+<p><PRINTLN>(&quot;&quot;+list1.get(i));</p>
 
+<p> </p>
 
-list1.add("6 ostrich");
+<p></p>
 
-list1.add(ar.StringConvert()); 
+<p> %></p>
 
+<p>?></p>
 
-for (int i=0;i<list1.size();i++)
+<p>EXAMPLE-3: CREATE AN BOOTLOADER Using OJAVA7</p>
 
-<PRINTLN>(""+list1.get(i));
+<p> <OJAVA7> <USE> CUTIL;</p>
 
+<p><PACK> MYOS</p>
 
-              
+<p>{</p>
 
-               
+<p> <CLASS> MYOs</p>
 
-     %>
+<p> {</p>
 
-?>
+<p>public void main(){</p>
 
-EXAMPLE-3: CREATE  AN  BOOTLOADER   Using OAKJAVA7
+<p><PRINTLN>(&quot;HelloWorld for booting MYOS&quot;);</p>
 
+<p></p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p></p>
 
-<PACK>  MYOS
+<p> %></p>
 
-{
+<p>?></p>
 
-    <CLASS> MYOs
+<p>EXAMPE-4: POINTERS</p>
 
-    {
+<p><OAKJAVA7> <USE> CUTIL;</p>
 
-public void main(){
+<p><PACK> MyP</p>
 
-<PRINTLN>("HelloWorld  for  booting  MYOS");
+<p>{</p>
 
-          
+<p> <CLASS> Programs</p>
 
-               
+<p> {</p>
 
-     %>
+<p> public void main()</p>
 
-?>
+<p> {</p>
 
-EXAMPE-4: POINTERS
+<p></p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p> <Str> s=&quot;dsdds&quot;;</p>
 
-<PACK> MyP
+<p></p>
 
-{
+<p> {*} l Pointers (s);</p>
 
-    <CLASS> Programs
+<p></p>
 
-    {
+<p>l.add(s);</p>
 
-        public void main()
+<p></p>
 
-        {
+<p> for (int i = 0; i NOT= l.size(); i = i + 1)</p>
 
-            
+<p> {</p>
 
- <Str>  s="dsdds";
+<p></p>
 
- 
+<p> <OBJECT> obj=l.GETKEY(i);</p>
 
- {*} l Pointers (s);  
+<p> <PRINTLN>(obj);</p>
 
- 
+<p></p>
 
-l.add(s);
+<p></p>
 
- 
+<p></p>
 
- for (int i = 0; i NOT= l.size(); i = i + 1)
+<p> }</p>
 
- {
+<p>   %></p>
 
- 
+<p>?></p>
 
- <OBJECT> obj=l.GETKEY(i);
+<p> EXAMPLE-5: DICTIONARY =====================</p>
 
- <PRINTLN>(obj);
+<p><OJAVA7></p>
 
- 
+<p><USE> System.Collections.Generic;</p>
 
- 
+<p><PACK> MyP</p>
 
- 
+<p>{</p>
 
- }
+<p> <CLASS> Programs</p>
 
- 
-     %>
+<p> {</p>
 
-?>
+<p></p>
 
+<p> public void main()</p>
 
-EXAMPLE-5: DICTIONARY
-=====================
+<p> {</p>
 
-<OAKJAVA7>
+<p></p>
 
-<USE> System.Collections.Generic;
+<p> Dictionary<string, string> openWith <NEW> Dictionary<string, string>();</p>
 
-<PACK> MyP
+<p>openWith.Add(&quot;txt&quot;, &quot;notepad.exe&quot;);</p>
 
-{
+<p>openWith.Add(&quot;bmp&quot;, &quot;paint.exe&quot;);</p>
 
-    <CLASS> Programs
+<p>openWith.Add(&quot;dib&quot;, &quot;paint.exe&quot;);</p>
 
-    {
+<p>openWith.Add(&quot;rtf&quot;, &quot;wordpad.exe&quot;);</p>
 
-         
+<p></p>
 
-        public void main()
+<p></p>
 
-        {
+<p></p>
 
-            
+<p> %></p>
 
- Dictionary<string, string> openWith  <NEW>  Dictionary<string, string>();
+<p>?></p>
 
-openWith.Add("txt", "notepad.exe");
+<p>Example-6: EXTEND =================</p>
 
-openWith.Add("bmp", "paint.exe");
+<p><OAKJAVA7> <USE> CUTIL;</p>
 
-openWith.Add("dib", "paint.exe");
+<p><IMPORT></p>
 
-openWith.Add("rtf", "wordpad.exe"); 
+<p><PACK> MyP</p>
 
-              
+<p><%</p>
 
-             
+<p> <CLASS> Programs</p>
 
-               
+<p> <%</p>
 
-     %>
+<p> public void main()</p>
 
-?>
+<p> {</p>
 
-Example-6: EXTEND
-=================
+<p></p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p></p>
 
-<IMPORT>
+<p> EXTEND list <NEW> EXTEND(&quot;BUCKETS&quot;);</p>
 
-<PACK> MyP
+<p></p>
 
-<%
+<p></p>
 
-    <CLASS> Programs
+<p></p>
 
-    <%
+<p></p>
 
-        public void main()
+<p> list.KeyAdd(&quot;1101&quot;);</p>
 
-        {
+<p></p>
 
- 
+<p> list.add(&quot;jemin&quot;);</p>
 
- 
+<p></p>
 
- EXTEND list <NEW> EXTEND("BUCKETS");
+<p> list.RandomAdd();</p>
 
- 
+<p></p>
 
- 
+<p> list.Display(list);</p>
 
- 
+<p></p>
 
- 
+<p><PRINTLN>(&quot;&quot;+list.DisplayO(list,1));</p>
 
-      list.KeyAdd("1101");  
+<p></p>
 
-                    
+<p>%></p>
 
-                     list.add("jemin");
+<p>?></p>
 
-                     
+<p>EXAMPLE-7: HEAP</p>
 
-                     list.RandomAdd();    
+<p><OAKJAVA7> <USE> CUTIL;</p>
 
-                     
+<p><PACK> MyP</p>
 
-                     list.Display(list);
+<p>{</p>
 
-                    
+<p> <CLASS> Programs</p>
 
-<PRINTLN>(""+list.DisplayO(list,1));
+<p> {</p>
 
- 
+<p> public void main()</p>
 
-%>
+<p> {</p>
 
-?>
+<p></p>
 
-EXAMPLE-7: HEAP
+<p> Heap root <NEW> Heap(&quot;wilmix&quot;);</p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p></p>
 
-<PACK> MyP
+<p> for (int i = 0; i <= 10; i = i + 1)</p>
 
-{
+<p> {</p>
 
-      <CLASS> Programs
+<p> root.add(&quot;item &quot; + i);</p>
 
-    {
+<p> }</p>
 
-         public void main()
+<p></p>
 
-        {
+<p> <PRINTLN>(root.size() );</p>
 
- 
+<p> root.printTree();</p>
 
- Heap root <NEW> Heap("wilmix");
+<p></p>
 
- 
+<p></p>
 
- for (int i = 0; i <= 10; i = i + 1)
+<p> %></p>
 
- {
+<p>?></p>
 
- root.add("item " + i);
+<p>Example-8: LArray</p>
 
- }
+<p><OAKJAVA7></p>
 
-                 
+<p><USE> CUTIL;</p>
 
- <PRINTLN>(root.size() );
+<p><PACK> MyP</p>
 
- root.printTree();
+<p>{</p>
 
-          
+<p> <CLASS> Programs</p>
 
-               
+<p> {</p>
 
-     %>
+<p> public void main()</p>
 
-?>
+<p> {</p>
 
-Example-8: LArray
+<p> LArray root <NEW> LArray(&quot;root&quot;);</p>
 
-<OAKJAVA7>
+<p> ArrayList ar <NEW> ArrayList();</p>
 
-<USE> CUTIL;
+<p></p>
 
-<PACK> MyP
+<p>for (int i=0;i<=1000;i++)</p>
 
-{
+<p> ar.add(i,i);</p>
 
-    <CLASS> Programs
+<p> root.add(&quot;wilmix&quot;);</p>
 
-    {
+<p>root.add(&quot;jemin&quot;);</p>
 
-          public void main()
+<p>root.add(&quot;shalom&quot;);</p>
 
-        {
+<p>root.add(&quot;1010&quot;);</p>
 
+<p>root.add(&quot;101&quot;);</p>
 
-LArray root <NEW> LArray("root");
+<p>root.add(&quot;201&quot;);</p>
 
+<p>root.add(ar.StringConvert());</p>
 
-ArrayList ar <NEW>  ArrayList();
+<p>root.add(&quot;100000000&quot;);</p>
 
+<p>//print the tree's size and contents</p>
 
+<p> root.printTree();</p>
 
-for  (int  i=0;i<=1000;i++)
+<p></p>
 
+<p></p>
 
-ar.add(i,i);
+<p> %></p>
 
+<p>?></p>
 
-root.add("wilmix");
+<p>Example-9 : PIPE</p>
 
-root.add("jemin");
+<p><OAKJAVA7> <USE> CUTIL;</p>
 
-root.add("shalom");
+<p><PACK> MyP</p>
 
-root.add("1010");
+<p>{</p>
 
-root.add("101");
+<p> <CLASS> Programs</p>
 
-root.add("201");
+<p> {</p>
 
-root.add(ar.StringConvert());
+<p>public void main()</p>
 
-root.add("100000000");
+<p> {</p>
 
-//print the tree's size and contents
+<p></p>
 
+<p>Pipe list <NEW> Pipe(&quot;BUCKETS&quot;);</p>
 
-root.printTree();
+<p></p>
 
-          
+<p></p>
 
-               
+<p></p>
 
-     %>
+<p></p>
 
-?>
+<p> list.KeyAdd(&quot;1101&quot;);</p>
 
-Example-9 : PIPE
+<p></p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p> list.add(&quot;jemin&quot;);</p>
 
-<PACK> MyP
+<p></p>
 
-{
+<p> list.RandomAdd();</p>
 
-    <CLASS> Programs
+<p></p>
 
-    {
+<p> list.Display(list);</p>
 
-public void main()
+<p><PRINTLN>(&quot;&quot;+list.DisplayO(list,1));</p>
 
-        {
+<p></p>
 
- 
+<p></p>
 
-Pipe list  <NEW> Pipe("BUCKETS");
+<p></p>
 
- 
+<p> %></p>
 
- 
+<p>?></p>
 
- 
+<p>EXAMPLE-10: TREELIST =====================</p>
 
- 
+<p><OAKJAVA7> <USE> CUTIL;</p>
 
-      list.KeyAdd("1101");  
+<p><PACK> MyP</p>
 
-                    
+<p>{</p>
 
-                     list.add("jemin");
+<p> <CLASS> Programs</p>
 
-                     
+<p> {</p>
 
-                     list.RandomAdd();    
+<p> public void main()</p>
 
-                     
+<p> {</p>
 
-                     list.Display(list);
+<p></p>
 
-<PRINTLN>(""+list.DisplayO(list,1));
+<p>TreeList list <NEW> TreeList (&quot;BUCKETS&quot;);</p>
 
- 
+<p></p>
 
-          
+<p></p>
 
-               
+<p></p>
 
-     %>
+<p></p>
 
-?>
+<p></p>
 
-EXAMPLE-10: TREELIST
-=====================
+<p></p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p> list.KeyAdd(&quot;1101&quot;);</p>
 
-<PACK> MyP
+<p></p>
 
-{
+<p> list.add(&quot;jemin&quot;);</p>
 
-    <CLASS> Programs
+<p></p>
 
-    {
+<p></p>
 
-        public void main()
+<p> list.RandomAdd(&quot;1111&quot;);</p>
 
-        {
+<p>TreeList list2 <NEW> TreeList(&quot;BUCKETS&quot;);</p>
 
- 
+<p> list2.KeyAdd(&quot;1102&quot;);</p>
 
-TreeList list  <NEW> TreeList ("BUCKETS");
+<p></p>
 
- 
+<p> list2.add(&quot;rahul&quot;);</p>
 
- 
+<p></p>
 
- 
+<p></p>
 
- 
+<p> list2.RandomAdd(&quot;1112&quot;);</p>
 
- 
+<p></p>
 
- 
+<p></p>
 
-      list.KeyAdd("1101");  
+<p><PRINTLN>(&quot;DATA=&quot;+list.DisplayO(list,0));</p>
 
-                    
+<p><PRINTLN>(&quot;DATA=&quot;+list2.DisplayO(list2,0));</p>
 
-                     list.add("jemin");
+<p></p>
 
-                    
+<p></p>
 
-                     
+<p> %></p>
 
-                     list.RandomAdd("1111");   
+<p>?></p>
 
-TreeList list2 <NEW> TreeList("BUCKETS");
+<p>Example-11 : MASK</p>
 
- list2.KeyAdd("1102");  
+<p><OAKJAVA7></p>
 
-                    
+<p><USE> CUTIL;</p>
 
-                     list2.add("rahul");
+<p><PACK> My</p>
 
-                    
+<p>{</p>
 
-                     
+<p> <CLASS> Programs</p>
 
-                     list2.RandomAdd("1112");
+<p> {</p>
 
-                     
+<p> public void main()</p>
 
-                 
+<p> {</p>
 
-<PRINTLN>("DATA="+list.DisplayO(list,0));
+<p> MASK root <NEW> MASK(&quot;wilmix&quot;);</p>
 
-<PRINTLN>("DATA="+list2.DisplayO(list2,0));
+<p> for (int i = 0; i NOT= 10; i = i + 1)</p>
 
-          
+<p>{</p>
 
-               
+<p>root.add(&quot;item &quot; + i);</p>
 
-     %>
+<p>}</p>
 
-?>
+<p></p>
 
-Example-11 : MASK
+<p></p>
 
-<OAKJAVA7>
+<p></p>
 
-<USE> CUTIL;
+<p>root <NEW> MASK(&quot;root1&quot;,1211211,54441);</p>
 
-<PACK> My
+<p> root <NEW> MASK(&quot;root2&quot;,121121,5444);</p>
 
-{
+<p>root <NEW> MASK(&quot;root5&quot;,99121888,&quot;5&quot;);</p>
 
-    <CLASS> Programs
+<p> root <NEW> MASK(&quot;root3&quot;,12112,544);</p>
 
-    {
+<p> root <NEW> MASK(&quot;root4&quot;,1211,54);</p>
 
-           public void main()
+<p> root <NEW> MASK(&quot;root51&quot;,121,5);</p>
 
-        {
+<p></p>
 
+<p>root.printTree();</p>
 
-MASK root <NEW> MASK("wilmix");
+<p> </p>
 
+<p></p>
 
-for (int i = 0; i NOT= 10; i = i + 1)
+<p> %></p>
 
-{
+<p>?></p>
 
-root.add("item " + i);
+<p>Example-12 : WICKET ====================</p>
 
-}
+<p><OAKJAVA7> <USE> CUTIL;</p>
 
-             
+<p><PACK> MyPo</p>
 
+<p>{</p>
 
+<p> <CLASS> Programs</p>
 
+<p> {</p>
 
+<p> public void main()</p>
 
-root <NEW> MASK("root1",1211211,54441);
+<p> {</p>
 
+<p> Wicket list12;</p>
 
-root  <NEW> MASK("root2",121121,5444);
+<p> list12 <NEW> Wicket(1000,10002,43433,4343,5555451);</p>
 
-root  <NEW> MASK("root5",99121888,"5");
+<p> list12 <NEW> Wicket(10001,100021,434331,4343,5555452);</p>
 
+<p> list12 <NEW> Wicket(10002,100022,434332,4343,5555453);</p>
 
-root  <NEW> MASK("root3",12112,544);
+<p> list12 <NEW> Wicket(10003,100023,434333,4343,5555454);</p>
 
+<p> list12 <NEW> Wicket(10004,100024,434334,4343,5555455);</p>
 
-root  <NEW> MASK("root4",1211,54);
+<p> list12 <NEW> Wicket(10005,100025,434335,4343,5555456);</p>
 
+<p></p>
 
-root  <NEW> MASK("root51",121,5);
+<p></p>
 
+<p> list12.Display(list12);</p>
 
+<p></p>
 
-root.printTree();
+<p> <PRINTLN>(&quot;DATA=&quot;+list12.DisplayO(list12,0));</p>
 
+<p></p>
 
-          
+<p></p>
 
-               
+<p></p>
 
-     %>
+<p> %></p>
 
-?>
+<p>?></p>
 
-Example-12 : WICKET
-====================
+<p>Example-13 : STRUCTURE</p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p><OAKJAVA7> <USE> CUTIL;</p>
 
-<PACK> MyPo
+<p><PACK> MyPoi</p>
 
-{
+<p>{</p>
 
-    <CLASS> Programs
+<p> <CLASS> Programs</p>
 
-    {
+<p> {</p>
 
-           public void main()
+<p> public void main()</p>
 
-        {
+<p> {</p>
 
- Wicket  list12;
+<p></p>
 
- list12 <NEW> Wicket(1000,10002,43433,4343,5555451);
+<p> <Str> s=&quot;dsdds&quot;;</p>
 
- list12 <NEW> Wicket(10001,100021,434331,4343,5555452);
+<p></p>
 
- list12 <NEW> Wicket(10002,100022,434332,4343,5555453);
+<p> {*} l Pointers(s);</p>
 
- list12 <NEW> Wicket(10003,100023,434333,4343,5555454);
+<p></p>
 
- list12 <NEW> Wicket(10004,100024,434334,4343,5555455);
+<p>l.add(s);</p>
 
- list12 <NEW> Wicket(10005,100025,434335,4343,5555456);
+<p></p>
 
- 
+<p> for (int i = 0; i NOT= l.size(); i = i + 1)</p>
 
- 
+<p> {</p>
 
- list12.Display(list12);
+<p></p>
 
- 
+<p> <OBJECT> obj=l.GETKEY(i);</p>
 
- <PRINTLN>("DATA="+list12.DisplayO(list12,0));
+<p> <PRINTLN>(obj);</p>
 
-                 
+<p></p>
 
-          
+<p></p>
 
-               
+<p></p>
 
-     %>
+<p> }</p>
 
-?>
+<p></p>
 
-Example-13 : STRUCTURE
+<p></p>
 
-<OAKJAVA7>
-<USE> CUTIL;
+<p></p>
 
-<PACK> MyPoi
+<p></p>
 
-{
+<p> <STRUCTURE> list <NEW> <STRUCTURE> (l.GETKEY(0));</p>
 
-    <CLASS> Programs
+<p></p>
 
-    {
+<p> for (int i11 = 0; i11 NOT= list.size(); i11 = i11 + 1)</p>
 
-          public void main()
+<p> {</p>
 
-        {
+<p></p>
 
-            
+<p></p>
 
- <Str>  s="dsdds";
+<p></p>
 
- 
+<p> <OBJECT> el=list.ret(i11);</p>
 
- {*} l Pointers(s);  
+<p></p>
 
- 
+<p></p>
 
-l.add(s);
+<p> <PRINTLN>(&quot;SNO= &quot;+el);</p>
 
- 
+<p> }</p>
 
- for (int i = 0; i NOT= l.size(); i = i + 1)
+<p></p>
 
- {
+<p></p>
 
- 
+<p></p>
 
- <OBJECT> obj=l.GETKEY(i);
+<p> %></p>
 
- <PRINTLN>(obj);
+<p>?></p>
 
- 
+<p>Example-14 : BUCKETIST ======================</p>
 
- 
+<p><OAKJAVA7> <USE> CUTIL; <PACK> MyP</p>
 
- 
+<p>{</p>
 
- }
+<p> <CLASS> Programs</p>
 
- 
+<p> {</p>
 
- 
+<p> public void main()</p>
 
- 
+<p> {</p>
 
- 
+<p></p>
 
- <STRUCTURE>  list <NEW> <STRUCTURE> (l.GETKEY(0));
+<p>Bucketist bp <NEW> Bucketist(&quot;wilmix&quot;);</p>
 
- 
+<p>bp <NEW> Bucketist(1,222,434);</p>
 
- for (int i11 = 0; i11 NOT= list.size(); i11 = i11 + 1)
+<p>bp <NEW> Bucketist(1,222,434);</p>
 
- {
+<p>bp.Display(bp);</p>
 
- 
+<p><PRINTLN>(&quot;DATA=&quot;+bp.DisplayO(bp,1));</p>
 
- 
+<p></p>
 
- 
+<p></p>
 
- <OBJECT>  el=list.ret(i11);
+<p> %></p>
 
- 
+<p>?></p>
 
- 
-
- <PRINTLN>("SNO= "+el);
-
-                }
-
-              
-
-            
-
-               
-
-     %>
-
-?>
-
-Example-14 : BUCKETIST
-======================
-
-<OAKJAVA7>
-<USE> CUTIL;
-<PACK> MyP
-
-{
-
-    <CLASS> Programs
-
-    {
-
-          public void main()
-
-        {
-
- 
-
-Bucketist  bp    <NEW>  Bucketist("wilmix");
-
-bp    <NEW>  Bucketist(1,222,434);
-
-bp   <NEW>  Bucketist(1,222,434);
-
-bp.Display(bp);
-
-<PRINTLN>("DATA="+bp.DisplayO(bp,1));
-
-          
-
-               
-
-     %>
-
-?>
-
-=====================================================
+<p>=====================================================</p>
