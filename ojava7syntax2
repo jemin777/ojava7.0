@@ -1,5 +1,5 @@
-OakJava7 Syntax 2
-==================
+OJava7 Syntax 2
+===============
 
 
 Filename.java7
@@ -12,7 +12,7 @@ public  class  <classname>
 {
 
 
-//This constructor with super method is mandatory, which indicates it is a oakjava7 //program
+//This constructor with super method is mandatory, which indicates it is a ojava7 //program
 
 // This  constructor  should have same name  as  the  classname .
 
@@ -36,7 +36,7 @@ public void main()
 {
 
 
-<! OAKJAVA7 Logic !>
+<! OJAVA7 Logic !>
 
 
 }
@@ -62,7 +62,7 @@ Query3.java7
 
          }
 
-// Method declared for this  Oakjava7 program to print
+// Method declared for this  Ojava7 program to print
 
 //the text Welcome! to EveryBody
 
@@ -85,7 +85,7 @@ print("\n\n");
 }
 
 
-// All the oakjava7 main method  should have public void main() instead of
+// All the ojava7 main method  should have public void main() instead of
 
  //public static void main method  of java language.
 
@@ -108,21 +108,21 @@ Note:
 
 This  is  simillar  to  Java Servlet , This  topic  is  mentioned only at  Enterprise  edition. And  this program generated  class file  is  sealed  as
 
-"An Oakjava7(JAVA7.0) compiler - jemin Information  technology - JIT-777-WRIT-0003 Query3.class" .  So this  is another type of oakjava7 program 
+"An Ojava7(JAVA7.0) compiler - jemin Information  technology - JIT-777-WRIT-0003 Query3.class" .  So this  is another type of ojava7 program 
 
-and  it is called as  Oakjava7 Servlet.
+and  it is called as  Ojava7 Servlet.
 
 
 
 JAVA7.0  SYNTAX-2  Program  Structure(.java7)
 
-Declaration Oakjava7  Section  : 
+Declaration Ojava7  Section  : 
 
  public class  <classname>
 
 {
 
-//This constructor with super method is mandatory, which indicates it is a oakjava7 //program and  class name and   constructor name should be  same
+//This constructor with super method is mandatory, which indicates it is a ojava7 //program and  class name and   constructor name should be  same
 
 public  <classname>() 
 
@@ -140,9 +140,9 @@ Package  Statement;
 
 Import  Statement;
 
-OAKJAVA7 LOGIC  SECTION
+OJAVA7 LOGIC  SECTION
 
-// Oakjava7  main method should have public void main  method  otherwise oakjava7
+// Ojava7  main method should have public void main  method  otherwise ojava7
 
 program  will not  compile....
 
@@ -150,13 +150,13 @@ program  will not  compile....
 
 {
 
-<! OAKJAVA7 Logic !>
+<! OJAVA7 Logic !>
 
 }
 
-CLOSE OAKJAVA7  LOGIC  SECTION   }
+CLOSE OJAVA7  LOGIC  SECTION   }
 
-LOGIC  OAKJAVA7  DATASTRUCTURE SECTION
+LOGIC  OJAVA7  DATASTRUCTURE SECTION
 
 class  <CLASSNAME>
 
@@ -178,7 +178,7 @@ private <CLASSNAME>()
 ................
 
 
-CLOSE LOGIC OAKJAVA7 DATASTRUCTURE SECTION }
+CLOSE LOGIC OJAVA7 DATASTRUCTURE SECTION }
 
 
 ENDING  SECTION : 
@@ -187,7 +187,7 @@ ENDING  SECTION :
 Explanation:
 ============
 
-All  JAVA7.0   should    start    oakjava7  declaration section as
+All  JAVA7.0   should    start    ojava7  declaration section as
 
 
 public class  <classname>
@@ -195,7 +195,7 @@ public class  <classname>
 {
 
 //This constructor with super method is mandatory, which indicates it is a oakjava7 program. 
-//The class name and  constructor  of  Oakjava7 program should be  same.
+//The class name and  constructor  of  Ojava7 program should be  same.
 
 public  <classname>() 
 
@@ -205,21 +205,21 @@ super();
 
 }   
 
-after that OAKJAVA7 LOGIC  SECTION should be
+after that OJAVA7 LOGIC  SECTION should be
 
    public void main()
 
 {
 
-<! OAKJAVA7 Logic !>
+<! OJAVA7 Logic !>
 
 }
 
-so <!OAKJAVA7 Logic>  may have print statements, for loop,
+so <!OJAVA7 Logic>  may have print statements, for loop,
 
 Datastructure statements belong to  another class.
 
-But Logic  Oakjava7  DataStructure Section should be in this format
+But Logic  Ojava7  DataStructure Section should be in this format
 
 class  <CLASSNAME>
 
@@ -234,23 +234,23 @@ private <CLASSNAME>()
 
 	}
 
-and Close Logic Oakjava7 DataStructure section by using   curly braces which is "}".
+and Close Logic Ojava7 DataStructure section by using   curly braces which is "}".
 
 I hope  this  syntax  change  will be  easy  to  follow  and  to  do programming  
 
-in Oakjava7. I remove the  complexity of  the  oakjava7  program syntax. So now
+in Ojava7. I remove the  complexity of  the  ojava7  program syntax. So now
 
-this  type  of  oakjava7 servlet  syntax  is  learnable.
+this  type  of  ojava7 servlet  syntax  is  learnable.
 
 Note:
 =====
 
-This  Oakjava7Syntax2  is  used  for  Oakjava7 Servlet, etc.
+This  Ojava7Syntax2  is  used  for  Ojava7 Servlet, etc.
 This  syntax  is  easy to focus and it is  learnable.
 and it  generates .class file  which  will be  sealed  with 
-"An Oakjava7(JAVA7.0) compiler - jemin Information  technology - JIT-777-WRIT-0003 Query3.class" .  
+"An Ojava7(JAVA7.0) compiler - jemin Information  technology - JIT-777-WRIT-0003 Query3.class" .  
 
-So this  is another type of oakjava7 program  and  it is called as  Oakjava7 Servlet.
+So this  is another type of ojava7 program  and  it is called as  Ojava7 Servlet.
 and it  has main mehtod  as public void main only.
 
 
